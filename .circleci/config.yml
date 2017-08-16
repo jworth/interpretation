@@ -1,0 +1,22 @@
+version: 2
+general:
+  branches:
+    only:
+     - master
+
+notify:
+  webhooks:
+    - url: https://api.connectedacademy.io/clearcache
+
+jobs:
+  build:
+    docker: 
+      - image: node:7.4.0
+    working_directory: ~/connectedacademy
+    steps:
+      - checkout
+      - run: npm install
+      - run: npm run generate
+      - add_ssh_keys
+      - run: chmod +x ./build.sh
+      - run: ./build.sh

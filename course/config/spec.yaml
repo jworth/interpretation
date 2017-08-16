@@ -1,0 +1,56 @@
+hashtag: "#cainterpretation"
+starts: "2017-04-01T22:47:31-07:00"
+ends: "2017-09-20T22:47:31-07:00"
+accounts: 
+  - tombartindale
+  - jonathan_worth
+  - edjenkins91
+langs:
+  - en
+about: about.md
+info: info.md
+classes:
+  -
+    dir: class1
+    slug: depictions
+    content:
+      -
+        url: intro.md
+        slug: intro
+      -
+        url: fourcorners.md
+        slug: fourcorners
+      -
+        url: extra-pre-reading.md
+        slug: prereading
+      -
+        url: homework.md
+        slug: homework
+      -
+        url: class.md
+        slug: liveclass
+        schedule:
+          -
+            release_at: "2017-04-05T10:57:37+01:00"
+            leadhub: true
+            hub_id: "ncl"
+      -
+        url: deepdive.md
+        slug: deepdive
+      -
+        url: extended.md
+        slug: extended
+      -
+        url: homework1.md
+        slug: homework1
+      -
+        url: webinar.md
+        slug: webinar
+        schedule:
+          -
+            release_at: "2017-04-09T22:57:37-07:00"
+      -
+        content_type: question
+      -
+        url: whatnext.md
+        slug: whatnext
