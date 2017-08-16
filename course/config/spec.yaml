@@ -3,8 +3,6 @@ starts: "2017-04-01T22:47:31-07:00"
 ends: "2017-09-20T22:47:31-07:00"
 accounts: 
   - tombartindale
-  - jonathan_worth
-  - edjenkins91
 langs:
   - en
 about: about.md
