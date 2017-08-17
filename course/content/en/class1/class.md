@@ -10,4 +10,5 @@ images: transcripts/liveclass-media.json
 soundcloudId: 338257021
 transcript: transcripts/liveclass-transcript.json
 prompts: transcripts/liveclass-prompts.json
+media: transcripts/liveclass-media.json
 ---
