@@ -1,11 +1,18 @@
+---
+published: true
+title: ''
+content_type: title
+optional: false
+expectsubmission: false
+---
 1
 00:00:00,0 --> 00:00:15,000
-first.jpg
+lake.jpg
 
 2
 00:00:15,000 --> 00:00:30,000
-second.jpg
+lake.jpg
 
 3
 00:00:30,000 --> 00:00:45,000
-third.jpg
+lake.jpg
