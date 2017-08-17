@@ -1,11 +1,18 @@
+---
+published: true
+title: ''
+content_type: title
+optional: false
+expectsubmission: false
+---
 1
 00:00:00,0 --> 00:00:15,000
-lake.jpg
+photo-1439737567250-e9ea931e97a4.jpeg
 
 2
 00:00:15,000 --> 00:00:30,000
-lake.jpg
+photo-1439737567250-e9ea931e97a4.jpeg
 
 3
 00:00:30,000 --> 00:00:45,000
-lake.jpg
+photo-1439737567250-e9ea931e97a4.jpeg
