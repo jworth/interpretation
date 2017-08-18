@@ -1,311 +1,311 @@
 1
 00:00:00,000 --> 00:03:36,000
-01 Graham_Blackpool 1979.jpg
+media/01 Graham_Blackpool 1979.jpg
 
 2
 00:03:36,000 --> 00:03:44,000
-02 Graham PIL_1981.jpg
+media/02 Graham PIL_1981.jpg
 
 3
 00:03:44,000 --> 00:04:09,000
-03 RCA 1988.jpg
+media/03 RCA 1988.jpg
 
 4
 00:04:09,000 --> 00:04:40,000
-04 Liam NY 1993.jpg
+media/04 Liam NY 1993.jpg
 
 5
 00:04:40,000 --> 00:04:52,000
-05 J_Franzen.jpg
+media/05 J_Franzen.jpg
 
 6
 00:04:52,000 --> 00:05:00,000
-06 Gary-Oldman 1987.jpg
+media/06 Gary-Oldman 1987.jpg
 
 7
 00:05:00,000 --> 00:05:51,000
-07 ESPN_P_M.jpg
+media/07 ESPN_P_M.jpg
 
 8
 00:05:51,000 --> 00:06:58,000
-08 Randy_Newman_ 2001.jpg
+media/08 Randy_Newman_ 2001.jpg
 
 9
 00:06:58,000 --> 00:007:40,000
-09 IMG_0096.jpg
+media/09 IMG_0096.jpg
 
 10
 00:007:40,000 --> 00:007:50,000
-10 Tony Bennet.jpg
+media/10 Tony Bennet.jpg
 
 11
 00:007:50,000 --> 00:07:59,000
-11 Tony Bennet_2004.jpg
+media/11 Tony Bennet_2004.jpg
 
 12
 00:07:59,000 --> 00:08:10,000
-12 Tony Bennet and Graham.jpg
+media/12 Tony Bennet and Graham.jpg
 
 13
 00:08:10,000 --> 00:08:34,000
-13 Michael Jackson c.1999.jpg
+media/13 Michael Jackson c.1999.jpg
 
 14
 00:08:34,000 --> 00:09:08,000
-14 Susan.jpg
+media/14 Susan.jpg
 
 14
 00:09:08,000 --> 00:09:57,000
-14 Susan.jpg
+media/14 Susan.jpg
 
 15
 00:09:57,000 --> 00:10:13,000
-15 Graham2006Kitchen.jpg
+media/15 Graham2006Kitchen.jpg
 
 16
 00:10:13,000 --> 00:10:21,000
-16 Graham and Susan Hawaii.jpg
+media/16 Graham and Susan Hawaii.jpg
 
 17
 00:10:21,000 --> 00:10:41,000
-17 Graham-Hawaii158.jpg
+media/17 Graham-Hawaii158.jpg
 
 18
 00:10:41,000 --> 00:10:48,000
-18 GtoSLivingRoom.jpg
+media/18 GtoSLivingRoom.jpg
 
 19
 00:10:48,000 --> 00:11:22,000
-19 IMG_0015.jpg
+media/19 IMG_0015.jpg
 
 20
 00:11:22,000 --> 00:11:32,000
-20 IMG_0099.jpg
+media/20 IMG_0099.jpg
 
 21
 00:11:32,000 --> 00:11:52,000
-21 MacIndoe_008.jpg
+media/21 MacIndoe_008.jpg
 
 22
 00:11:52,000 --> 00:12:00,000
-22 Baggies.jpg
+media/22 Baggies.jpg
 
 23
 00:12:00,000 --> 00:12:15,000
-23 MacIndoe_GhostRider.jpg
+media/23 MacIndoe_GhostRider.jpg
 
 24
 00:12:15,000 --> 00:12:19,000
-24 MacIndoe_Get Fucked Up.jpg
+media/24 MacIndoe_Get Fucked Up.jpg
 
 25
 00:12:19,000 --> 00:12:26,000
-25 MacIndoe_True_Romance.jpg
+media/25 MacIndoe_True_Romance.jpg
 
 26
 00:12:26,000 --> 00:12:30,000
-26 note.jpg
+media/26 note.jpg
 
 27
 00:12:30,000 --> 00:12:38,000
-27 AddictionTreatment.jpg
+media/27 AddictionTreatment.jpg
 
 28
 00:12:38,000 --> 00:12:57,000
-28 note.jpg
+media/28 note.jpg
 
 29
 00:12:57,000 --> 00:13:45,000
-29  Scottish NPG.jpg
+media/29  Scottish NPG.jpg
 
 30
 00:13:45,000 --> 00:13:55,000
-30 MacIndoe_0776.jpg
+media/30 MacIndoe_0776.jpg
 
 31
 00:13:55,000 --> 00:14:05,000
-31 IMG_1550 copy.jpg
+media/31 IMG_1550 copy.jpg
 
 32
 00:14:05,000 --> 00:14:15,000
-32 Scottish NPG.jpg
+media/32 Scottish NPG.jpg
 
 33
 00:14:15,000 --> 00:14:25,000
-33 Scottish NPG.jpg
+media/33 Scottish NPG.jpg
 
 34
 00:14:25,000 --> 00:14:39,000
-34 Scottish NPG.jpg
+media/34 Scottish NPG.jpg
 
 35
 00:14:39,000 --> 00:15:00,000
-35 Projects.jpg
+media/35 Projects.jpg
 
 36
 00:15:00,000 --> 00:15:40,000
-36 view.jpg
+media/36 view.jpg
 
 37
 00:15:40,000 --> 00:15:49,000
-37 alleged[1] copy.jpg
+media/37 alleged[1] copy.jpg
 
 38
 00:15:49,000 --> 00:16:41,000
-38 Rikers.jpg
+media/38 Rikers.jpg
 
 39
 00:16:41,000 --> 00:17:05,000
-39 YorkCountyPrison.jpg
+media/39 YorkCountyPrison.jpg
 
 40
 00:17:05,000 --> 00:17:14,000
-40 ICE FORM_1050419.jpg
+media/40 ICE FORM_1050419.jpg
 
 41
 00:17:14,000 --> 00:17:24,000
-41 FreedomProgramWorkbook-MP.jpg
+media/41 FreedomProgramWorkbook-MP.jpg
 
 42
 00:17:24,000 --> 00:17:34,000
-42 Freedom Progam Letters .jpg
+media/42 Freedom Progam Letters .jpg
 
 43
 00:17:34,000 --> 00:17:45,000
-43 letters.jpg
+media/43 letters.jpg
 
 44
 00:17:45,000 --> 00:18:30,000
-44 Prison_Dorm Drawing copy.jpg
+media/44 Prison_Dorm Drawing copy.jpg
 
 45
 00:18:30,000 --> 00:19:40,000
-45 transit.jpg
+media/45 transit.jpg
 
 46
 00:19:40,000 --> 00:20:44,000
-46 discharge.jpg
+media/46 discharge.jpg
 
 47
 00:20:44,000 --> 00:23:16,000
-47 scottish.jpg
+media/47 scottish.jpg
 
 48
 00:23:16,000 --> 00:23:26,000
-48 editing.jpg
+media/48 editing.jpg
 
 49
 00:23:26,000 --> 00:23:38,000
-49 editing .jpg
+media/49 editing .jpg
 
 50
 00:23:38,000 --> 00:23:55,000
-50 ny magazine .jpg
+media/50 ny magazine .jpg
 
 51
 00:23:55,000 --> 00:24:15,000
-51 ny mag feedback.jpg
+media/51 ny mag feedback.jpg
 
 52
 00:24:15,000 --> 00:24:46,000
-52 Observer.jpg
+media/52 Observer.jpg
 
 53
 00:24:46,000 --> 00:25:21,000
-53 ComingClean.jpg
+media/53 ComingClean.jpg
 
 54
 00:25:21,000 --> 00:25:31,000
-54 Editing.jpg
+media/54 Editing.jpg
 
 55
 00:25:31,000 --> 00:25:41,000
-55 Editing.jpg
+media/55 Editing.jpg
 
 56
 00:25:41,000 --> 00:25:51,000
-56 Editing.jpg
+media/56 Editing.jpg
 
 57
 00:25:51,000 --> 00:26:00,000
-57 Scottish NPG.jpg
+media/57 Scottish NPG.jpg
 
 58
 00:26:00,000 --> 00:26:09,000
-58 Scottish NPG.jpg
+media/58 Scottish NPG.jpg
 
 59
 00:26:09,000 --> 00:26:20,000
-59 Scottish NPG.jpg
+media/59 Scottish NPG.jpg
 
 60
 00:26:20,000 --> 00:26:30,000
-60 Scottish NPG.jpg
+media/60 Scottish NPG.jpg
 
 61
 00:26:30,000 --> 00:26:40,000
-61 Scottish NPG.jpg
+media/61 Scottish NPG.jpg
 
 62
 00:26:40,000 --> 00:26:50,000
-62 Scottish NPG.jpg
+media/62 Scottish NPG.jpg
 
 63
 00:26:50,000 --> 00:27:00,000
-63 Scottish NPG.jpg
+media/63 Scottish NPG.jpg
 
 64
 00:27:00,000 --> 00:27:10,000
-64 Scottish NPG.jpg
+media/64 Scottish NPG.jpg
 
 65
 00:27:10,000 --> 00:27:20,000
-65 Scottish NPG.jpg
+media/65 Scottish NPG.jpg
 
 66
 00:27:20,000 --> 00:27:30,000
-66 Interview.jpg
+media/66 Interview.jpg
 
 67
 00:27:30,000 --> 00:27:39,000
-67 Graham-WNYC-IMG_3718.jpg
+media/67 Graham-WNYC-IMG_3718.jpg
 
 68
 00:27:39,000 --> 00:27:50,000
-68 class.jpg
+media/68 class.jpg
 
 69
 00:27:50,000 --> 00:28:00,000
-69 GrahamLiamScotland2015.jpg
+media/69 GrahamLiamScotland2015.jpg
 
 70
 00:28:00,000 --> 00:28:10,000
-70 Graham-RunningMich.jpg
+media/70 Graham-RunningMich.jpg
 
 71
 00:28:10,000 --> 00:28:20,000
-71 GrahamFraserRun-20149.jpg
+media/71 GrahamFraserRun-20149.jpg
 
 72
 00:28:20,000 --> 00:28:30,000
-72 GrahamParents2011.jpg
+media/72 GrahamParents2011.jpg
 
 73
 00:28:30,000 --> 00:28:40,000
-73 GrahamJudeFraserDublin.jpg
+media/73 GrahamJudeFraserDublin.jpg
 
 74
 00:28:40,000 --> 00:28:50,000
-74 GrahamDougJanetteSusan-Scotland.jpg
+media/74 GrahamDougJanetteSusan-Scotland.jpg
 
 75
 00:28:50,000 --> 00:29:00,000
-75 GrahamSusanCastle2011.jpg
+media/75 GrahamSusanCastle2011.jpg
 
 76
 00:29:00,000 --> 00:29:55,000
-76 Graham-2011-BrooklynBridge.jpg
+media/76 Graham-2011-BrooklynBridge.jpg
 
 77
 00:29:55,000 --> 00:31:16,000
-77 GSEdinburgh2013.jpg
+media/77 GSEdinburgh2013.jpg
