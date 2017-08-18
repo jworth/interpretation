@@ -6,4 +6,4 @@ expectsubmission: false
 title: Extended Content
 description: Some description...
 ---
-Here you can access the original extended interviews individually.
+Here you can access Graham and Susan's original interviews in full.
