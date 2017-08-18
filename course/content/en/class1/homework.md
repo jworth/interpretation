@@ -8,7 +8,12 @@ homework: true
 ---
 ## This week's task
 
-Insert description of this week's task
+Please review the following linked stories in advance of the class.
+[Closing down a notorious heroin camp in Philadelphia.](https://www.theatlantic.com/photo/2017/08/closing-down-a-notorious-heroin-camp-in-philadelphia/536232/)
+[Faces of Meth: the long-term effects of crystal meth or methamphetamine.](http://www.telegraph.co.uk/news/health/pictures/6454944/Faces-of-Meth-the-long-term-effects-of-crystal-meth-or-methamphetamine.html)
+[His photos are striking and real. But is Chris Arnade a journalist?](http://www.cjr.org/the_feature/chris_arnade_journalism_photography_photojournalism.php)
+[A CARING LENS ON THE OPIOID CRISIS](http://time.com/jeffrey-stockbridge-kensington-philadelphia-photographs/)
+
 
 
 ## Preparation
