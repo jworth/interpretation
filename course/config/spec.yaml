@@ -11,7 +11,7 @@ slug: interpretation
 classes:
   -
     dir: class1
-    slug: depictions
+    slug: interpretation
     content:
       -
         url: intro.md
