@@ -1,19 +1,1972 @@
 1
-00:00:00,020 --> 00:00:02,480
-First
+00:00:00,030 --> 00:00:03,899
+Hello my name is Jonathan Worth and as
+well as being freelance photographer I'm
 
 2
-00:00:02,760 --> 00:00:06,380
-Second
+00:00:03,899 --> 00:00:08,760
+also a researcher at Newcastle
+University's open lab in the UK the
 
 3
-00:00:06,380 --> 00:00:09,120
-Third
+00:00:08,760 --> 00:00:12,540
+interviews you're about to hear are part
+of a series that along with the web
 
 4
-00:00:10,000 --> 00:00:13,660
-Fourth
+00:00:12,540 --> 00:00:17,640
+platform and connected classes seek to
+create a space for critical engagement
 
 5
-00:00:13,679 --> 00:00:17,190
-Fifth
+00:00:17,640 --> 00:00:21,240
+with visual storytelling the
+relationship between the photographer
+
+6
+00:00:21,240 --> 00:00:25,170
+the subject and the audience the three
+stakeholders in every photograph a
+
+7
+00:00:25,170 --> 00:00:29,220
+central to the talking pictures
+interviews but there are occasions when
+
+8
+00:00:29,220 --> 00:00:33,809
+those stakeholders might not be three
+different people in the case of the
+
+9
+00:00:33,809 --> 00:00:37,290
+self-portrait the photographer and the
+subject to the same person in the case
+
+10
+00:00:37,290 --> 00:00:40,950
+of the selfie that isn't shared or
+published the photographer the subject
+
+11
+00:00:40,950 --> 00:00:44,010
+and the audience are one and the same
+the theme for this session is
+
+12
+00:00:44,010 --> 00:00:47,640
+interpretation and the people who have
+agreed to help us think about that are
+
+13
+00:00:47,640 --> 00:00:52,050
+the Scottish photographer Graham a
+can-do and the u.s. journalist Susan
+
+14
+00:00:52,050 --> 00:00:56,100
+Stellan for reasons that will become
+clear
+
+15
+00:00:56,100 --> 00:00:59,660
+Graham chose not to share his
+self-portraits for over ten years
+
+16
+00:00:59,660 --> 00:01:04,049
+and many of the images from this series
+and from this time in his life he's
+
+17
+00:01:04,049 --> 00:01:08,790
+still not chosen to publish both him and
+Susan reflect on the ethical
+
+18
+00:01:08,790 --> 00:01:12,270
+implications of representing other
+people the duty of care for the
+
+19
+00:01:12,270 --> 00:01:16,170
+vulnerable and they consider how the
+effect and impact of an image might be
+
+20
+00:01:16,170 --> 00:01:19,680
+felt long after it was made and long
+after the subject may have moved on with
+
+21
+00:01:19,680 --> 00:01:24,570
+their life I first met Graham in New
+York in 1998 he helped me find a place
+
+22
+00:01:24,570 --> 00:01:29,460
+to live and help me find places to work
+he was intense he was brash with his
+
+23
+00:01:29,460 --> 00:01:35,520
+thick Scottish accent that he refused to
+let go of and he was funny he was
+
+24
+00:01:35,520 --> 00:01:39,390
+generous he was very caring of his
+friends and he was successful as well he
+
+25
+00:01:39,390 --> 00:01:43,320
+was shooting news shooting huge jobs he
+was travelling all over the world it was
+
+26
+00:01:43,320 --> 00:01:47,729
+someone who was constantly in motion
+both figuratively and literally he was
+
+27
+00:01:47,729 --> 00:01:53,189
+also a compulsive collector both of the
+ephemeral and an images everything had a
+
+28
+00:01:53,189 --> 00:01:57,840
+story attached to it and everything was
+super tasteful as well to this day the
+
+29
+00:01:57,840 --> 00:02:01,799
+photographs of that period of my life
+that hang in my home were made by Graham
+
+30
+00:02:01,799 --> 00:02:07,079
+we moved away from New York at the end
+of 2001 and towards the end it had
+
+31
+00:02:07,079 --> 00:02:12,060
+become harder and harder to keep up with
+him by 2005 it was impossible and it
+
+32
+00:02:12,060 --> 00:02:17,150
+remains a regret that we lost
+back in the UK news of Graham now was
+
+33
+00:02:17,150 --> 00:02:22,640
+coming second and third-hand I learned
+that he he'd got divorced I'd learned
+
+34
+00:02:22,640 --> 00:02:26,900
+that he wasn't working anymore
+I learned that there'd been a newspaper
+
+35
+00:02:26,900 --> 00:02:31,099
+report of an explosion at his house that
+he'd been arrested and that finally he
+
+36
+00:02:31,099 --> 00:02:34,610
+was in prison as you listen to this
+interview you'll hear from Graham the
+
+37
+00:02:34,610 --> 00:02:39,950
+photographer Graham the subject and
+Graham the publisher you'll hear how
+
+38
+00:02:39,950 --> 00:02:43,640
+even is Louis Debbie was still
+considering the ethical implications of
+
+39
+00:02:43,640 --> 00:02:48,500
+making other people's images and how he
+and Susan chose to share the work taking
+
+40
+00:02:48,500 --> 00:02:52,849
+into consideration how the contexts
+would affect how the various audiences
+
+41
+00:02:52,849 --> 00:02:57,140
+would interpret it and be affected and
+so it's fitting that susan has the last
+
+42
+00:02:57,140 --> 00:03:02,209
+word not only on this story but also on
+this interview itself there are also
+
+43
+00:03:02,209 --> 00:03:06,440
+links to related bodies of work but
+along with this material should inform a
+
+44
+00:03:06,440 --> 00:03:11,150
+critical discourse about vulnerability
+responsibilities and how we choose to
+
+45
+00:03:11,150 --> 00:03:16,099
+represent issues and so frame the
+conversations around them Graeme my
+
+46
+00:03:16,099 --> 00:03:21,799
+name's Graham maganda and speaking to
+you guys from Brooklyn New York and my
+
+47
+00:03:21,799 --> 00:03:25,489
+living room and you might hear a few
+Kerrigan bikers I'm pretty close to the
+
+48
+00:03:25,489 --> 00:03:32,389
+expressway I grew up in Scotland between
+Edinburgh and Glasgow and you know I
+
+49
+00:03:32,389 --> 00:03:38,450
+spent a lot of my youth being into music
+and specifically punk music in the late
+
+50
+00:03:38,450 --> 00:03:44,450
+seventies and through the 80s and I went
+to art school in Edinburgh where I
+
+51
+00:03:44,450 --> 00:03:50,269
+actually studied painting and then
+London I went to the Royal College which
+
+52
+00:03:50,269 --> 00:03:54,739
+was quite a jump for me because I hadn't
+studied photography at all I'd study
+
+53
+00:03:54,739 --> 00:03:59,329
+pinning but I'd always taken photographs
+and somehow I managed again to the Royal
+
+54
+00:03:59,329 --> 00:04:03,230
+College which was still pretty amazing
+in Malaga and if it was very prestigious
+
+55
+00:04:03,230 --> 00:04:08,930
+at the time and then after two years at
+the Royal College where I met my
+
+56
+00:04:08,930 --> 00:04:15,680
+then-girlfriend and had my son Liam
+there I moved to New York to follow a
+
+57
+00:04:15,680 --> 00:04:18,340
+career in photography
+
+58
+00:04:19,980 --> 00:04:24,310
+when I first moved to New York I wasn't
+sure what I was going to do in
+
+59
+00:04:24,310 --> 00:04:28,480
+photography I knew I wanted to work
+within the field of photography I fallen
+
+60
+00:04:28,480 --> 00:04:33,550
+in love with it and was pretty
+passionate about it but but five years I
+
+61
+00:04:33,550 --> 00:04:38,230
+spent working in galleries but because I
+was always taking pictures eventually
+
+62
+00:04:38,230 --> 00:04:43,170
+moved on and working commercially as a
+photographer before I knew I was
+
+63
+00:04:43,170 --> 00:04:47,380
+photographing for a lot of magazines
+working on commercial ad campaigns
+
+64
+00:04:47,380 --> 00:04:52,150
+getting flown all over the world to do
+annual reports and it's photographing
+
+65
+00:04:52,150 --> 00:04:57,280
+gary oldman I photographed Michael
+Jackson I got sent a film set so I was
+
+66
+00:04:57,280 --> 00:05:02,200
+photographing you know for Nike and ESPN
+so the trajectory at that point was
+
+67
+00:05:02,200 --> 00:05:06,340
+really really quick for me it wasn't am
+I really in business for myself was
+
+68
+00:05:06,340 --> 00:05:10,360
+walking at that level as a commercial
+photographer people would do stuff for a
+
+69
+00:05:10,360 --> 00:05:14,050
+year and so it was very fun I mean I was
+always really surprised with people
+
+70
+00:05:14,050 --> 00:05:16,840
+through money and then give you money to
+buy your breakfast in your lunch and a
+
+71
+00:05:16,840 --> 00:05:21,580
+cup of coffee and someone help you and I
+taxi and all that stuff but that world
+
+72
+00:05:21,580 --> 00:05:25,780
+which really surprises me very very
+surprising to me even I thought that I
+
+73
+00:05:25,780 --> 00:05:29,710
+was it was too much money sometimes and
+I was getting paid it but of course not
+
+74
+00:05:29,710 --> 00:05:34,360
+all photography is really well kid you
+know I mean journalism and editorial I
+
+75
+00:05:34,360 --> 00:05:38,200
+think is you can make a livin that it's
+a good living but yet you're not getting
+
+76
+00:05:38,200 --> 00:05:41,080
+paid what you're getting paid for
+shooting advertising campaigns and
+
+77
+00:05:41,080 --> 00:05:46,330
+that's where the real money comes in it
+was interested be you know in a position
+
+78
+00:05:46,330 --> 00:05:50,710
+where people would call you up and say
+hey you're available next week would
+
+79
+00:05:50,710 --> 00:05:56,380
+like to send you a la Randy Newman or
+done an article on them but I've often
+
+80
+00:05:56,380 --> 00:06:00,340
+found that as the people that you get
+sent that they have an interest and
+
+81
+00:06:00,340 --> 00:06:07,150
+story about them that are known that
+celebrity banned words that are more
+
+82
+00:06:07,150 --> 00:06:10,780
+inclined could give you more time and
+more implanted reveals things about the
+
+83
+00:06:10,780 --> 00:06:13,660
+cell even if you don't agree where I've
+photographed some people that
+
+84
+00:06:13,660 --> 00:06:17,980
+politically I might know he was a you
+know some of their stances I'm just like
+
+85
+00:06:17,980 --> 00:06:22,480
+wow but they also dress never done that
+reveal something me about how other
+
+86
+00:06:22,480 --> 00:06:27,070
+people love that light those jobs are
+more fulfilling for me you know I
+
+87
+00:06:27,070 --> 00:06:31,390
+enjoyed that so a you know meeting these
+people have known the public eye
+
+88
+00:06:31,390 --> 00:06:35,230
+might be done some that slightly
+interesting in Psalms picked up on it
+
+89
+00:06:35,230 --> 00:06:39,820
+and saw some magazines did a feature on
+it I started working as a photographer
+
+90
+00:06:39,820 --> 00:06:44,500
+because I was someone who was always
+taking pictures to portraits of friends
+
+91
+00:06:44,500 --> 00:06:48,670
+that have landscapes I did a photograph
+livin that was going on around me you
+
+92
+00:06:48,670 --> 00:06:52,720
+know because I really loved photography
+I still take pictures now I've always
+
+93
+00:06:52,720 --> 00:06:58,690
+taken pictures I mean I just sometimes I
+think it's are almost like an affliction
+
+94
+00:06:58,690 --> 00:07:01,960
+I encourage all my students to keep
+sketchbooks and not boots you know I
+
+95
+00:07:01,960 --> 00:07:05,860
+don't like them you take it out and
+write notes on the phones I like them to
+
+96
+00:07:05,860 --> 00:07:09,880
+be carrying sketchbooks you know I tell
+them and I send them on the first day in
+
+97
+00:07:09,880 --> 00:07:13,540
+class at the end of the semester
+go to the store it's your fun the corner
+
+98
+00:07:13,540 --> 00:07:17,650
+spend five bucks buy a sketchbook and
+just write your ideas and then scribble
+
+99
+00:07:17,650 --> 00:07:20,860
+ideas and if you find a piece of paper
+or a picture on the street or a Polaroid
+
+100
+00:07:20,860 --> 00:07:24,730
+or whatever as stick it in there when
+you look back through it will be much
+
+101
+00:07:24,730 --> 00:07:28,900
+more meaningful than a note on your
+iPhone that you can delete accidentally
+
+102
+00:07:28,900 --> 00:07:33,610
+and doesn't have any real as their take
+value after all thereby I'd like to get
+
+103
+00:07:33,610 --> 00:07:38,350
+my students to do a lot you know people
+especially know people are very
+
+104
+00:07:38,350 --> 00:07:42,550
+interested in seeing what your vision is
+and what you can bring to the table as
+
+105
+00:07:42,550 --> 00:07:50,740
+opposed to what you've brought to the
+table for other people so I've had
+
+106
+00:07:50,740 --> 00:07:54,190
+several years of working as a really
+successful commercial photographer
+
+107
+00:07:54,190 --> 00:07:58,570
+working editorially working for
+advertising agencies flying are in the
+
+108
+00:07:58,570 --> 00:08:02,860
+world being lucky enough to meet
+celebrities and you know such a dream
+
+109
+00:08:02,860 --> 00:08:09,550
+world of a photographer to be perfectly
+honest with you but during that period
+
+110
+00:08:09,550 --> 00:08:16,330
+that started drinking too much I started
+dabbling with drugs and it just took me
+
+111
+00:08:16,330 --> 00:08:19,840
+off at a tangent that I never ever
+really expected in my life you know I
+
+112
+00:08:19,840 --> 00:08:25,420
+slowly but surely and Betty insidiously
+the drugs kicked in and I became a very
+
+113
+00:08:25,420 --> 00:08:35,770
+very bad heroin and crack cocaine addict
+I first met grandma can do in 2002 when
+
+114
+00:08:35,770 --> 00:08:40,090
+we were both part of the same summer
+house out in Montauk as the end of Long
+
+115
+00:08:40,090 --> 00:08:44,930
+Island near New York at the time he was
+working as a commercial photographer
+
+116
+00:08:44,930 --> 00:08:48,800
+her there were a lot of us who kind of
+came and went to that house over the
+
+117
+00:08:48,800 --> 00:08:53,690
+course of the summer and I really just
+knew him as someone who partied a bit
+
+118
+00:08:53,690 --> 00:08:58,940
+and drink I would say more than the
+average person at the time he had a
+
+119
+00:08:58,940 --> 00:09:04,670
+girlfriend and we sort of lost touch
+over that after that summer then I
+
+120
+00:09:04,670 --> 00:09:10,370
+reached out to him in 2005 when I needed
+an author photo taken for a travel book
+
+121
+00:09:10,370 --> 00:09:16,880
+I'd written and went over to get my
+picture taken at that point Graham
+
+122
+00:09:16,880 --> 00:09:20,990
+wasn't in that relationship anymore I
+wasn't in a relationship and by the end
+
+123
+00:09:20,990 --> 00:09:23,660
+of that very long photoshoot in that
+afternoon
+
+124
+00:09:23,660 --> 00:09:28,889
+the next day he asked me out on a date
+I was living on the Upper West Side he
+
+125
+00:09:28,889 --> 00:09:31,769
+was living in Brooklyn and New York we
+joked that that's sort of a
+
+126
+00:09:31,769 --> 00:09:35,850
+long-distance relationship you know we
+really only saw each other on weekend so
+
+127
+00:09:35,850 --> 00:09:40,889
+it took a while for me to realize that
+there was something a little bit off
+
+128
+00:09:40,889 --> 00:09:50,430
+about him we tend to see and experience
+addiction as viewers at the extreme end
+
+129
+00:09:50,430 --> 00:09:54,569
+of the spectrum you know we don't really
+have a popular conception of the
+
+130
+00:09:54,569 --> 00:10:00,120
+functional addict so for me the idea
+that Graham could be functional as a
+
+131
+00:10:00,120 --> 00:10:06,720
+photographer and a guy that I would be
+interested in dating at first people
+
+132
+00:10:06,720 --> 00:10:11,459
+just would ask well how could you not
+have known it wasn't obvious to me and
+
+133
+00:10:11,459 --> 00:10:15,689
+you know we have pictures from a trip we
+took to Hawaii and my mom when she saw
+
+134
+00:10:15,689 --> 00:10:20,819
+this photo she said oh he looked so
+wholesome unbeknownst to me or really
+
+135
+00:10:20,819 --> 00:10:26,550
+anyone else he was using heroin at the
+time I was still working for many years
+
+136
+00:10:26,550 --> 00:10:30,149
+during our times Arthur I'm still
+working I'm making money I'm not that
+
+137
+00:10:30,149 --> 00:10:34,529
+bad you know this it just appears I'm
+going through but you know as you get
+
+138
+00:10:34,529 --> 00:10:38,790
+more and more in it drugs your awareness
+if where you are and what's going on
+
+139
+00:10:38,790 --> 00:10:46,860
+with you feathers away and but the time
+I so realized and tried to dance number
+
+140
+00:10:46,860 --> 00:10:54,420
+I was really deepen I eventually found
+out that Graham was using drugs when I
+
+141
+00:10:54,420 --> 00:10:59,399
+found him sitting on the couch in his
+house at the crack pipe for a variety of
+
+142
+00:10:59,399 --> 00:11:05,550
+reasons I didn't end up breaking up with
+him right then so I sort of stuck around
+
+143
+00:11:05,550 --> 00:11:12,290
+for a while you know and then until it
+became apparent that he really just
+
+144
+00:11:12,290 --> 00:11:17,129
+wasn't getting the help and I thought me
+being continuing a relationship was
+
+145
+00:11:17,129 --> 00:11:19,870
+actually hurting things more than was
+helping and
+
+146
+00:11:19,870 --> 00:11:24,730
+think I had this feeling that you know
+we all have that sort of tough love if I
+
+147
+00:11:24,730 --> 00:11:33,040
+just walk away you know that's going to
+motivate him to quit I've always taken
+
+148
+00:11:33,040 --> 00:11:37,210
+pictures and even in the depths of my
+addiction where I didn't work
+
+149
+00:11:37,210 --> 00:11:42,610
+commercially for years I was my whole
+life was unraveling and isolating myself
+
+150
+00:11:42,610 --> 00:11:48,550
+from everyone that I knew and I was on a
+very very slippery dark downhill path I
+
+151
+00:11:48,550 --> 00:11:54,400
+was still taking pictures but it wasn't
+only the pictures that I was taken that
+
+152
+00:11:54,400 --> 00:12:00,820
+were so from that period I collected all
+the being a compulsive collector of
+
+153
+00:12:00,820 --> 00:12:04,870
+things in my whole life and so I was
+intrigued by the design of the heroin
+
+154
+00:12:04,870 --> 00:12:09,370
+baggies that I was buying around New
+York City I didn't see it as collect at
+
+155
+00:12:09,370 --> 00:12:12,610
+a time I just kept them because I was
+intrigued by them I love the designs I
+
+156
+00:12:12,610 --> 00:12:16,540
+love the quirky little pictures with
+guns and cartoon characters and you know
+
+157
+00:12:16,540 --> 00:12:20,710
+statements on them that were just
+totally over the top sometimes so I'd be
+
+158
+00:12:20,710 --> 00:12:25,510
+sticking them in books at little boxes
+and stuff like that and also just other
+
+159
+00:12:25,510 --> 00:12:29,020
+things that were going on around me you
+know I was writing in scrapbooks you
+
+160
+00:12:29,020 --> 00:12:33,010
+know I was keeping letters I was keeping
+I got arrested a number a time I kept
+
+161
+00:12:33,010 --> 00:12:38,170
+the arrest warrants I kept all that
+stuff court appearances we have paper
+
+162
+00:12:38,170 --> 00:12:43,900
+stuck them in boxes I was surprised when
+I came through all that stuff and got
+
+163
+00:12:43,900 --> 00:12:47,740
+myself clean and a couple of different
+friends of mine had stuck stuff in
+
+164
+00:12:47,740 --> 00:12:51,400
+storage or kept things in their houses
+for me and I started pulling that stuff
+
+165
+00:12:51,400 --> 00:12:55,810
+together I started finding other stuff
+again I started finding the heroin
+
+166
+00:12:55,810 --> 00:13:00,190
+baggies and the nut boots and the
+Polaroids and the undeveloped rolls a 35
+
+167
+00:13:00,190 --> 00:13:05,920
+mil film and 120 film and and then I
+started finding all these cards hundreds
+
+168
+00:13:05,920 --> 00:13:09,670
+and hundreds of pictures I had taken
+during those years over maybe six or
+
+169
+00:13:09,670 --> 00:13:13,480
+seven years and no really not knowing I
+was doing it and sometimes looking on
+
+170
+00:13:13,480 --> 00:13:16,810
+sometimes now looking on and sometimes
+losing the cards and sometimes having
+
+171
+00:13:16,810 --> 00:13:22,540
+the cameras stolen by other junkies I
+didn't feel I had the right to show the
+
+172
+00:13:22,540 --> 00:13:26,410
+pictures of the other people that I'd
+photographed because the concent where
+
+173
+00:13:26,410 --> 00:13:29,860
+we were and it's a very very difficult
+thing you'll see and do a lot of things
+
+174
+00:13:29,860 --> 00:13:32,290
+in an addict and see everyone's okay
+then
+
+175
+00:13:32,290 --> 00:13:36,490
+the reality of day when you're clean you
+just go my god I would never do or say
+
+176
+00:13:36,490 --> 00:13:41,980
+that so I've decided to make it all
+about me another point in the code of
+
+177
+00:13:41,980 --> 00:13:46,630
+ethics is give special consideration to
+vulnerable subjects and that's something
+
+178
+00:13:46,630 --> 00:13:50,380
+that graham has addressed and explaining
+why he decided not to photograph other
+
+179
+00:13:50,380 --> 00:13:55,810
+addicts is this issue of consent
+you know we recognize now that someone
+
+180
+00:13:55,810 --> 00:14:00,000
+who is addicted to drugs and has a
+serious problem you know they have
+
+181
+00:14:00,000 --> 00:14:05,319
+difficulties with decision-making and
+making rational choices so to say that
+
+182
+00:14:05,319 --> 00:14:09,880
+this person can consent to having their
+picture taken and then published I think
+
+183
+00:14:09,880 --> 00:14:15,100
+is a bit problematic because you know we
+recognize that you know they aren't
+
+184
+00:14:15,100 --> 00:14:20,680
+really making decisions that are
+informed by rational choices and I think
+
+185
+00:14:20,680 --> 00:14:26,350
+that is something that we really need to
+think about because that person might
+
+186
+00:14:26,350 --> 00:14:30,639
+get clean and then later regret that
+their images out in the world you know
+
+187
+00:14:30,639 --> 00:14:35,170
+showing them at their worst moment and
+they can't take it back I had started
+
+188
+00:14:35,170 --> 00:14:38,709
+taking photographs of the people are run
+me in their environment and sometimes
+
+189
+00:14:38,709 --> 00:14:42,430
+I've ended up in the pictures and then
+it just felt more pertinent for me to
+
+190
+00:14:42,430 --> 00:14:46,690
+photograph myself because I was living
+that life and I shouldn't really be
+
+191
+00:14:46,690 --> 00:14:50,069
+pointing the camera at other people I
+felt I should be pointed out myself
+
+192
+00:14:50,069 --> 00:14:57,010
+so fast forward a few years and I had
+lost touch with him at that point he had
+
+193
+00:14:57,010 --> 00:15:04,240
+really gone downhill we kept in touch
+occasionally via email but then he sort
+
+194
+00:15:04,240 --> 00:15:09,310
+of just disappeared off the radar and I
+started reaching out to a couple other
+
+195
+00:15:09,310 --> 00:15:13,029
+people who had known him just sort of
+under the assumption that maybe he'd
+
+196
+00:15:13,029 --> 00:15:17,560
+overdose because his phone had been
+turned off the website you know he used
+
+197
+00:15:17,560 --> 00:15:22,750
+to promote his photography was offline I
+mean I spent close to a decade in my
+
+198
+00:15:22,750 --> 00:15:28,319
+life juggling too much drinking dabbling
+with drugs tonin a serious addiction and
+
+199
+00:15:28,319 --> 00:15:34,209
+everyone that went along with that and I
+kept telling myself that I could get
+
+200
+00:15:34,209 --> 00:15:37,839
+clean on my own and I kept thinking over
+some I could do just to willpower and
+
+201
+00:15:37,839 --> 00:15:41,529
+strands and it's just like I just need
+to buckle down and dare but you know I
+
+202
+00:15:41,529 --> 00:15:45,610
+was totally incapable that strangely
+enough the most devastating thing for me
+
+203
+00:15:45,610 --> 00:15:47,559
+at that
+was a finally been arrested and
+
+204
+00:15:47,559 --> 00:15:51,939
+sentenced to six months in Rikers Island
+which is a prison on an island on the
+
+205
+00:15:51,939 --> 00:15:55,929
+outskirts of New York City and I think
+it's one of the biggest penal colonies
+
+206
+00:15:55,929 --> 00:16:00,009
+in the world which totally blew me away
+because it was somewhere I never ever
+
+207
+00:16:00,009 --> 00:16:04,059
+thought I would end up and so I call
+turkeys in a cell and Rikers Island
+
+208
+00:16:04,059 --> 00:16:08,349
+where it was a really really painful
+thing you know the physicality of it and
+
+209
+00:16:08,349 --> 00:16:13,989
+then once you get that system a little
+but the readjusting in your body to be
+
+210
+00:16:13,989 --> 00:16:19,389
+in clean and then psychologically the
+you know realization of where the last
+
+211
+00:16:19,389 --> 00:16:23,439
+several years of your life have been a
+really crushing you know I mean it's a
+
+212
+00:16:23,439 --> 00:16:28,659
+really really tough time for me but I
+also gave me that moment a Clara is the
+
+213
+00:16:28,659 --> 00:16:32,829
+collet where I so it could look back and
+say wow I just put myself through this
+
+214
+00:16:32,829 --> 00:16:36,970
+and my friends so that's my family
+through this and thinking the collateral
+
+215
+00:16:36,970 --> 00:16:40,269
+damage to my mom and my dad and my
+friends and my son and over him was
+
+216
+00:16:40,269 --> 00:16:43,720
+really big by the time I tracked him
+down he was actually due to be released
+
+217
+00:16:43,720 --> 00:16:50,470
+from Rikers and rather than getting
+released he ended up in Homeland
+
+218
+00:16:50,470 --> 00:16:55,779
+Security custody and was very quickly
+moved to detention centers in first in
+
+219
+00:16:55,779 --> 00:17:00,309
+downtown Manhattan and then in New
+Jersey and then Pennsylvania so I
+
+220
+00:17:00,309 --> 00:17:04,240
+managed to get someone at the prison
+where he was being held in Pennsylvania
+
+221
+00:17:04,240 --> 00:17:09,189
+to give him my phone number and that's
+when we reconnected I was in a County
+
+222
+00:17:09,189 --> 00:17:12,459
+Jail in Pennsylvania that had an
+immigration wing and I found out they
+
+223
+00:17:12,459 --> 00:17:17,939
+had a 24/7 cognitive behavioral therapy
+program in there for four months and
+
+224
+00:17:17,939 --> 00:17:21,429
+that's that's how I got clean
+essentially was in a prison
+
+225
+00:17:21,429 --> 00:17:26,439
+rehabilitation program and it set the
+groundwork for me to when I got to build
+
+226
+00:17:26,439 --> 00:17:31,259
+on that and I've been clean ever since
+which is seven years on like that we
+
+227
+00:17:31,259 --> 00:17:37,600
+talked on the phone we exchanged these
+really intense letters and you know by
+
+228
+00:17:37,600 --> 00:17:42,549
+the time his final hearing was coming up
+it was as lawyer who actually asked if I
+
+229
+00:17:42,549 --> 00:17:46,960
+would be okay with Graham coming to stay
+with me for a while if he got released
+
+230
+00:17:46,960 --> 00:17:52,930
+so all of a sudden he was on a bus
+getting out at
+
+231
+00:17:52,930 --> 00:17:57,160
+the Port Authority Terminal near Times
+Square in New York and that was the
+
+232
+00:17:57,160 --> 00:18:01,120
+first time we saw each other when we
+were not separated by Plexiglas that was
+
+233
+00:18:01,120 --> 00:18:06,610
+the first time I seen him in almost two
+years so he came to stay with me and
+
+234
+00:18:06,610 --> 00:18:12,760
+he's still here could never get rid of
+him we actually just got married in May
+
+235
+00:18:12,760 --> 00:18:24,640
+of 2017 but when he was released
+maybe not nine months clean but also
+
+236
+00:18:24,640 --> 00:18:30,970
+having spent nine months incarcerated so
+he wasn't gram the photographer I think
+
+237
+00:18:30,970 --> 00:18:35,679
+he didn't know who he was and that was
+the process of rebuilding you know not
+
+238
+00:18:35,679 --> 00:18:42,010
+just from that time away from everything
+but also almost a decade of addiction so
+
+239
+00:18:42,010 --> 00:18:46,000
+it was a long process I mean he at first
+he didn't have any interest in picking
+
+240
+00:18:46,000 --> 00:18:50,920
+up a camera he would go to a grocery
+store and just stand in the aisles kind
+
+241
+00:18:50,920 --> 00:18:55,240
+of mystified by the amount of choice
+that you had because all that's taken
+
+242
+00:18:55,240 --> 00:18:59,320
+away when you're incarcerated you know
+he didn't have any interest in having a
+
+243
+00:18:59,320 --> 00:19:02,710
+phone he didn't have any interest in a
+computer you know it took a long time
+
+244
+00:19:02,710 --> 00:19:07,480
+for Graham to you know feel pleasure
+again from the things that I feel
+
+245
+00:19:07,480 --> 00:19:13,950
+pleasure from you know whether it's a
+great meal or sex or running or
+
+246
+00:19:13,950 --> 00:19:18,130
+photography you know and that's because
+your brain changes from addiction you
+
+247
+00:19:18,130 --> 00:19:21,429
+know particularly with dopamine's and
+you know I don't think people get
+
+248
+00:19:21,429 --> 00:19:25,890
+prepared for how long that's going to
+take
+
+249
+00:19:28,770 --> 00:19:34,570
+so now that I'm being clean for a bit
+and I've started pulling together my
+
+250
+00:19:34,570 --> 00:19:40,540
+life and have rediscovered all this a
+ephemera and stuff the photographs the
+
+251
+00:19:40,540 --> 00:19:46,450
+baggies the notebooks the Polaroids all
+that sort of stuff from the use of
+
+252
+00:19:46,450 --> 00:19:51,010
+addiction I'd spent a lot of time
+looking through them and it was somewhat
+
+253
+00:19:51,010 --> 00:19:56,380
+upsetting for me and I say looking at
+these because even though I was clean
+
+254
+00:19:56,380 --> 00:20:01,210
+none I was happy I was clean and I was
+near 100% comfortable talking to people
+
+255
+00:20:01,210 --> 00:20:06,340
+about what I've been through because I
+was still in that place that said as an
+
+256
+00:20:06,340 --> 00:20:10,060
+addict your shame-based because it's not
+like some that you boast about as being
+
+257
+00:20:10,060 --> 00:20:13,630
+a heroine addict or a crack addict or
+some that you're pretty shamed of you
+
+258
+00:20:13,630 --> 00:20:18,310
+know so as a difficult thing to reveal
+if people and some people alive people
+
+259
+00:20:18,310 --> 00:20:22,260
+knew about it some people didn't and I
+would bump into people who would say oh
+
+260
+00:20:22,260 --> 00:20:26,140
+where have you been the last few year
+have the healthy fairy jeez what was
+
+261
+00:20:26,140 --> 00:20:30,250
+being good on and the last thing you
+want to say is oh hey it's good to see
+
+262
+00:20:30,250 --> 00:20:34,570
+you I've been a heroin addict I was
+locked up in prison the first time I saw
+
+263
+00:20:34,570 --> 00:20:39,400
+them I mean it was just gut-wrenching
+and it was it was so devastating but
+
+264
+00:20:39,400 --> 00:20:44,890
+also at the same time compelling because
+it showed me what Graham had been up to
+
+265
+00:20:44,890 --> 00:20:50,740
+in these rooms and stairwells and places
+that I'd never seen and I actually wrote
+
+266
+00:20:50,740 --> 00:20:57,730
+about it in a journal at the time where
+I kind of described that attraction and
+
+267
+00:20:57,730 --> 00:21:01,720
+this voyeurism to wanting to know about
+this part of his life he'd kept hidden
+
+268
+00:21:01,720 --> 00:21:07,360
+but then also how sad it was because
+what Graham chose to show was so much
+
+269
+00:21:07,360 --> 00:21:12,370
+loneliness and in all the photos you
+know by and large he's by himself and
+
+270
+00:21:12,370 --> 00:21:17,830
+just what his life had been reduced to
+it took a lot of time looking at him
+
+271
+00:21:17,830 --> 00:21:21,430
+because some of the pictures were really
+really really disturbing and some of the
+
+272
+00:21:21,430 --> 00:21:25,350
+really disturbing ones I have me put out
+there because it's too rough on my
+
+273
+00:21:25,350 --> 00:21:32,380
+family and my wife and myself even
+people who see certain images are just
+
+274
+00:21:32,380 --> 00:21:36,580
+too tough you know they they show me in
+a light I just don't want to share when
+
+275
+00:21:36,580 --> 00:21:39,850
+he did start showing them to people
+there were really a range of reactions
+
+276
+00:21:39,850 --> 00:21:42,850
+and what
+friend of ours just you know ran crying
+
+277
+00:21:42,850 --> 00:21:47,560
+from the room when she first saw them it
+was hard looking at it was hard walking
+
+278
+00:21:47,560 --> 00:21:51,250
+at who the audience would be why would I
+want to show who would this resonate
+
+279
+00:21:51,250 --> 00:21:54,790
+with and what would be their takeaway it
+was like I took these pictures of myself
+
+280
+00:21:54,790 --> 00:21:59,800
+and this is what I went through and I
+want you to understand people end up in
+
+281
+00:21:59,800 --> 00:22:05,320
+this situation and what they goes
+through and that they can recover as
+
+282
+00:22:05,320 --> 00:22:08,740
+well really important to me the you know
+the takeaway for this is that you can go
+
+283
+00:22:08,740 --> 00:22:13,330
+through this stuff and you can recover
+I think that's missing PA addiction for
+
+284
+00:22:13,330 --> 00:22:17,410
+SES and stuff like that is people a
+perfect laugh it photographs the addicts
+
+285
+00:22:17,410 --> 00:22:22,540
+the junkies the torn down buildings or
+the desolate isolated places and they're
+
+286
+00:22:22,540 --> 00:22:27,070
+always a lot of the times in victims and
+they always never seem to recover and
+
+287
+00:22:27,070 --> 00:22:31,480
+never seems to be an end story about
+really look at these addicts so I want
+
+288
+00:22:31,480 --> 00:22:35,950
+you to show look at this addict coming
+from me as the recovered addict when
+
+289
+00:22:35,950 --> 00:22:40,090
+Graham first started talking about or
+proposing that he might show these
+
+290
+00:22:40,090 --> 00:22:45,090
+images to some photo editors or think
+about publishing them or exhibiting them
+
+291
+00:22:45,090 --> 00:22:51,790
+my first reaction was that that was a
+really scary thought you know not
+
+292
+00:22:51,790 --> 00:22:55,630
+negative that he shouldn't do it but
+just concern about how these images
+
+293
+00:22:55,630 --> 00:23:01,300
+would be interpreted so one of the
+things that I suggested is that if he
+
+294
+00:23:01,300 --> 00:23:06,550
+was going to publish these images that
+he include text accompanying the images
+
+295
+00:23:06,550 --> 00:23:11,590
+that he tell his story so that he could
+to some degree shape how people reacted
+
+296
+00:23:11,590 --> 00:23:16,720
+to them my response from magazines was
+immediate I sent emails to a couple of
+
+297
+00:23:16,720 --> 00:23:20,470
+picture editors was a couple in baby
+pictures and was then like half an hour
+
+298
+00:23:20,470 --> 00:23:24,070
+which is unknown for picture writers
+they were back at me saying oh we love
+
+299
+00:23:24,070 --> 00:23:26,680
+these can you bring them in can you show
+us more were really interesting
+
+300
+00:23:26,680 --> 00:23:31,390
+publishing them we eventually decided to
+publish them was text by Susan which was
+
+301
+00:23:31,390 --> 00:23:39,730
+an interview basically and in New York
+magazine and it got so much feedback but
+
+302
+00:23:39,730 --> 00:23:43,630
+because we mulled over it for so long it
+was a really well-done piece and it
+
+303
+00:23:43,630 --> 00:23:49,000
+really resonated I was really happy with
+it and the feedback from the people that
+
+304
+00:23:49,000 --> 00:23:54,100
+saw it their audience was
+amazing so after the article it first
+
+305
+00:23:54,100 --> 00:23:57,910
+appeared in New York Magazine in print
+and obviously there was an accompanying
+
+306
+00:23:57,910 --> 00:24:02,080
+piece online that did have the
+photography and the text and some audio
+
+307
+00:24:02,080 --> 00:24:07,150
+we literally sat looking at the computer
+waiting for the comments to start
+
+308
+00:24:07,150 --> 00:24:11,080
+scrolling in there was a person who
+thought that Graham had faked to this
+
+309
+00:24:11,080 --> 00:24:15,130
+whole thing in order to get published
+and you know potentially get an exhibit
+
+310
+00:24:15,130 --> 00:24:20,650
+and that really sparked this thread
+about whether or not someone who was a
+
+311
+00:24:20,650 --> 00:24:24,640
+heroin addict really would have the
+capacity to set a self timer and take
+
+312
+00:24:24,640 --> 00:24:29,380
+pictures of himself and I think that
+gets back to this idea that we don't
+
+313
+00:24:29,380 --> 00:24:33,250
+really understand or believe in the
+concept of someone who can be somewhat
+
+314
+00:24:33,250 --> 00:24:37,900
+functional or in some cases very
+functional while using drugs but there
+
+315
+00:24:37,900 --> 00:24:43,180
+are myriad stories of people who you
+know have held down careers as doctors
+
+316
+00:24:43,180 --> 00:24:49,090
+surgeons lawyers actors professors and
+then it comes out that you know they had
+
+317
+00:24:49,090 --> 00:24:53,290
+a serious addiction but yet I think
+sometimes because we don't see that
+
+318
+00:24:53,290 --> 00:24:59,230
+depicted and visual imagery we just we
+can't wrap our heads around it so in a
+
+319
+00:24:59,230 --> 00:25:03,010
+lot of the Guardian comments there was
+just the skepticism was he really a
+
+320
+00:25:03,010 --> 00:25:08,860
+heroin addict was he really using from
+there it got picked up by al-jazeera The
+
+321
+00:25:08,860 --> 00:25:15,130
+Huffington Post and that led me to the
+Scottish National Portrait Gallery where
+
+322
+00:25:15,130 --> 00:25:18,790
+the curator there approached me and said
+listen I've never seen anything like
+
+323
+00:25:18,790 --> 00:25:22,480
+this before can you bring these to me
+and let me see these pictures these are
+
+324
+00:25:22,480 --> 00:25:27,430
+amazing you know so I went across and
+met with her and I took maybe I made a
+
+325
+00:25:27,430 --> 00:25:32,140
+whole bunch of eight by ten prints maybe
+the eighth year mainly we looked through
+
+326
+00:25:32,140 --> 00:25:35,290
+them
+I left them was her I came back three
+
+327
+00:25:35,290 --> 00:25:38,890
+months later we were all that done it
+like 50 came back three months later we
+
+328
+00:25:38,890 --> 00:25:45,480
+were all done like 25 images that were
+really powerful and succinct and we
+
+329
+00:25:45,480 --> 00:25:50,710
+submitted them as a board to the
+Scottish National Portrait Gallery to
+
+330
+00:25:50,710 --> 00:25:54,760
+see if we could get an acquisition to my
+surprise I got it woke up one morning
+
+331
+00:25:54,760 --> 00:25:58,390
+checked my email and there was an email
+from an enlightened who's a curator said
+
+332
+00:25:58,390 --> 00:26:02,140
+you'll never believe it the dis idea to
+acquire all 25 images for the national
+
+333
+00:26:02,140 --> 00:26:06,759
+collection which was
+mind-boggling image they think back
+
+334
+00:26:06,759 --> 00:26:10,959
+they've taken these pictures these dark
+places these isolated painful times that
+
+335
+00:26:10,959 --> 00:26:15,070
+you know the hope all through the boards
+and committees in the National Portrait
+
+336
+00:26:15,070 --> 00:26:21,149
+Gallery which is a very traditional body
+of people found this body of works so
+
+337
+00:26:21,149 --> 00:26:24,789
+compelling and powerful that they were
+the quiet of the national collection
+
+338
+00:26:24,789 --> 00:26:30,039
+which is a real really great for me it
+was really a catalyst to these
+
+339
+00:26:30,039 --> 00:26:35,320
+conversations that I think people were
+really anxious and interested in having
+
+340
+00:26:35,320 --> 00:26:41,739
+so the series of images became sort of a
+gateway to these conversations about not
+
+341
+00:26:41,739 --> 00:26:45,999
+just addiction but how do you get clean
+you know what is that like what is that
+
+342
+00:26:45,999 --> 00:26:51,819
+process what did you do what helped you
+AIESEC Graham's route to recovery is you
+
+343
+00:26:51,819 --> 00:26:55,659
+know something that is going to work for
+everybody but I think the more we talk
+
+344
+00:26:55,659 --> 00:26:59,289
+about it the more we can kind of learn
+about what works in different
+
+345
+00:26:59,289 --> 00:27:04,899
+circumstances one of the reasons that
+we're we mostly see images of addiction
+
+346
+00:27:04,899 --> 00:27:08,469
+and addiction sort of at the far end of
+the spectrum is just the shame and the
+
+347
+00:27:08,469 --> 00:27:13,809
+stigma that surrounds you know substance
+use disorder the imagery is always about
+
+348
+00:27:13,809 --> 00:27:19,299
+the person who's really lost everything
+they're really down and out that's
+
+349
+00:27:19,299 --> 00:27:24,099
+something that's also missing
+you know from media and kind of popular
+
+350
+00:27:24,099 --> 00:27:28,239
+representations of addiction is that
+recovery piece of it because you know
+
+351
+00:27:28,239 --> 00:27:33,639
+it's maybe not as interesting visually
+Graham keeps asking you know how do you
+
+352
+00:27:33,639 --> 00:27:39,099
+depict recovery you know what do you
+show about that you know where with
+
+353
+00:27:39,099 --> 00:27:42,699
+addiction I think there is that
+voyeurism factor it's something that you
+
+354
+00:27:42,699 --> 00:27:46,899
+know people you know largely haven't
+seen although I would argue that maybe
+
+355
+00:27:46,899 --> 00:27:50,349
+at this point we have seen a lot of
+images of needles going into veins or
+
+356
+00:27:50,349 --> 00:27:56,319
+people passed out or you know crack
+pipes or drugs kind of close up and I
+
+357
+00:27:56,319 --> 00:28:00,849
+think where we're at now is kind of
+trying to wrap our heads around what is
+
+358
+00:28:00,849 --> 00:28:06,789
+that project or story that you can tell
+about how people get clean and sober
+
+359
+00:28:06,789 --> 00:28:12,039
+some people recover without doing you
+know a rehab or without going to AAA
+
+360
+00:28:12,039 --> 00:28:17,229
+other people really rely on those peer
+supports so I think you know finding a
+
+361
+00:28:17,229 --> 00:28:20,080
+way to capture those
+stories and capture that process is
+
+362
+00:28:20,080 --> 00:28:24,790
+something that we're both really
+interested in right now I think it's the
+
+363
+00:28:24,790 --> 00:28:29,530
+most important thing I've I've really
+done is put this body work out there and
+
+364
+00:28:29,530 --> 00:28:35,290
+engage with people and you know as
+someone who's been the addict and the
+
+365
+00:28:35,290 --> 00:28:38,980
+recover person and reviewing that part
+in my life and trying to take away some
+
+366
+00:28:38,980 --> 00:28:43,870
+of that shame and trying to take away
+some of that negative it is a Sorrows
+
+367
+00:28:43,870 --> 00:28:48,490
+addiction and giving people that option
+that you know what you can go that duck
+
+368
+00:28:48,490 --> 00:28:53,500
+and that deep and end up the places I've
+been and still cool yourself at that and
+
+369
+00:28:53,500 --> 00:28:58,120
+find recovery and built rebuild your
+life again and it's now easy there was
+
+370
+00:28:58,120 --> 00:29:03,880
+times where it were really really really
+tough but you know what being clean is
+
+371
+00:29:03,880 --> 00:29:08,860
+it million times better than being a
+headache that's for sure you know so you
+
+372
+00:29:08,860 --> 00:29:13,240
+know I mean it's been a crazy journey
+and a long journey and a tough journey
+
+373
+00:29:13,240 --> 00:29:19,330
+for some of the friends I've seen me go
+through that yourself included but at
+
+374
+00:29:19,330 --> 00:29:23,320
+least I came away from it with something
+that can help change other people's
+
+375
+00:29:23,320 --> 00:29:26,770
+minds and bring light to what people
+mean bill so and that's been really
+
+376
+00:29:26,770 --> 00:29:42,720
+really important for me all right you
+got it
+
+377
+00:29:42,720 --> 00:29:48,870
+is it yes you say nothing that's about
+
+378
+00:29:51,330 --> 00:29:57,190
+so now that you've heard my story and
+grand story and listened to you know
+
+379
+00:29:57,190 --> 00:30:01,600
+these interviews I kind of challenge you
+to think about what we've talked about
+
+380
+00:30:01,600 --> 00:30:07,630
+and how much of the focus has been on
+addiction and the process of you know
+
+381
+00:30:07,630 --> 00:30:12,040
+going from being a successful
+photographer to someone who was had lost
+
+382
+00:30:12,040 --> 00:30:17,080
+everything and ended up in a prison cell
+versus the time spent on you know
+
+383
+00:30:17,080 --> 00:30:21,220
+talking about in addressing grams
+recovery and the treatment he got and
+
+384
+00:30:21,220 --> 00:30:26,560
+you know how that worked because I think
+we all have to step back and see how
+
+385
+00:30:26,560 --> 00:30:30,850
+we're representing this issue and sort
+of challenge ourselves to think about it
+
+386
+00:30:30,850 --> 00:30:33,690
+in different ways and
+so challenge some of the stereotypes we
+
+387
+00:30:33,690 --> 00:30:37,980
+have about what does addiction look like
+you know is it just the photographs that
+
+388
+00:30:37,980 --> 00:30:41,700
+we see of people like Graham who are
+slumped over with a needle in their arm
+
+389
+00:30:41,700 --> 00:30:47,310
+and when we talk about it why are we
+drawn to that imagery more than two
+
+390
+00:30:47,310 --> 00:30:53,040
+images of people sitting in circles or
+interviews of people talking about you
+
+391
+00:30:53,040 --> 00:30:57,960
+know what they had to overcome the peer
+support they got you know and some that
+
+392
+00:30:57,960 --> 00:31:01,890
+is in some sense it's harder to
+photograph it's harder to get access but
+
+393
+00:31:01,890 --> 00:31:05,040
+that's part of the process that we need
+to be seeing and talking about and
+
+394
+00:31:05,040 --> 00:31:09,300
+thinking about because that's really key
+to figuring out what works to help
+
+395
+00:31:09,300 --> 00:31:12,470
+people who are struggling with addiction
+
