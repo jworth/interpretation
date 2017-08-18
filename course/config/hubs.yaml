@@ -17,7 +17,7 @@
 -
   id: "brazil"
   name: "Brazil"
-  timezone: "+00:00"
+  timezone: "-03:00"
   service: "twitter"
   account: "@jonathan_worth"
   hashtag: "#brazil_hub"
