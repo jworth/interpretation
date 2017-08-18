@@ -4,7 +4,7 @@ content_type: class
 optional: false
 title: Live Classroom
 description: An audio montage of interviews.
-duration: '1860'
+duration: '1875'
 expectsubmission: false
 images: transcripts/liveclass-images.json
 soundcloudId: 338397168
