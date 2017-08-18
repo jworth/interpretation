@@ -14,8 +14,6 @@ expectsubmission: false
 
 [Take Part](/takepart.md) | [Run a Class Yourself](/runclass.md)
  
-Interpretation is not a traditional academic or training course. It does not teach technical skills, nor have a rigid set of learning outcomes that participants must achieve in order to “pass”. There are no exams.
- 
 Interpretation is a connected conversation about photography in the 21st century, and the classes are where those conversations begin. The format and the platform are designed to enable both the teacher and the participant to be parts of a global conversation that is informed by an international range of perspectives and joined live, by the same photographic experts who feature in the content. Participants are also invited to create, to share and to feedback on each other’s photographic responses, through the same networks.
  
 For each class we have staged a conversation between a **photographer**, a **subject** and **someone who represents the audience**. A subject expert also provides historical or thematic context. These conversations are designed to help us address five key questions, namely:
