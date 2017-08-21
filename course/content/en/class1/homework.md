@@ -9,15 +9,19 @@ homework: true
 ## This week's task
 
 Please review the following linked stories in advance of the class.
+
 [Closing down a notorious heroin camp in Philadelphia.](https://www.theatlantic.com/photo/2017/08/closing-down-a-notorious-heroin-camp-in-philadelphia/536232/)
+
 [Faces of Meth: the long-term effects of crystal meth or methamphetamine.](http://www.telegraph.co.uk/news/health/pictures/6454944/Faces-of-Meth-the-long-term-effects-of-crystal-meth-or-methamphetamine.html)
+
 [His photos are striking and real. But is Chris Arnade a journalist?](http://www.cjr.org/the_feature/chris_arnade_journalism_photography_photojournalism.php)
+
 [A CARING LENS ON THE OPIOID CRISIS](http://time.com/jeffrey-stockbridge-kensington-philadelphia-photographs/)
 
 
 
 ## Preparation
 
-There are plenty of photo stories that depict addiction but few that celebrate recovery. In advance of this class author Susan Stellin and photographer Graham Macindoe challenge us to create a four corners image with _Recovery_ as its theme. Use the corners to include supporting images, a backstory, any relevant links, your code of ethics and a copyright notice.
+There are plenty of photo stories that depict addiction but few that celebrate recovery. In advance of this class author Susan Stellin and photographer Graham Macindoe challenge us to create a 4Corners image with _Recovery_ as its theme. Use the corners to include supporting images, a backstory, any relevant links, your code of ethics and a copyright notice.
 
 Follow [the instructions](/class/fourcorners.md) to create and upload your submission.
