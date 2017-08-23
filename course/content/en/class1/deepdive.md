@@ -3,7 +3,7 @@ published: true
 content_type: postclass
 optional: true
 expectsubmission: false
-title: In-Depth Analysis
+title: 'Deep dive with ... '
 description: >-
   In this extended interview photographer XXXX XXXX reflects on her practice as
   she addresses the course's key questions: what are you saying? Who are you
