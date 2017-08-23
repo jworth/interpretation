@@ -5,8 +5,8 @@ optional: false
 title: Depictions of Addiction
 description: >-
   Photographer Graham Macindoe and journalist Susan Stellin provide a case-study
-  for us to think about how digital images are interpreted, how they affect
-  audiences and how they can impact subjects, both now, and in the future.
+  for us to consider how images are interpreted and the potentially enduring
+  impact those images may have on the subjects.
 expectsubmission: false
 ---
 ## Depictions of Addiction - Introduction
