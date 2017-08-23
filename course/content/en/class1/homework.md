@@ -5,6 +5,7 @@ optional: false
 expectsubmission: true
 title: Homework
 homework: true
+description: Pre-reading and a practical challenge to complete in advance of the class.
 ---
 ## This week's task
 
