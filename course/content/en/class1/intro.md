@@ -23,21 +23,9 @@ What we say and what other people hear, are not always the same thing.
 
 How people interpret what we say will be affected by all of the different things that go into making us individuals; our gender, age, cultural background, our political biases, even our mood. On top of that are the external factors such as an audience's social and physical context. 
 
-With digital images the likelihood of them being orphaned, decontextualised and misinterpreted is even greater. In this session we’re thinking about how audiences interpret our images. Scottish photographer Graham Macindoe and U.S. journalist Susan Stellin provide us with a case study. Their story offers us the opportunity to consider we might manage an audience's interpretation, whilst also considering the potential impact on our subjects of the enduring and distributed digital image.
+With digital images the likelihood of them being orphaned, decontextualised and misinterpreted is even greater. In this session we’re thinking about how audiences interpret our images. Scottish photographer Graham Macindoe and U.S. journalist Susan Stellin provide us with a case study. Their story offers us the opportunity to both consider how we might manage an audience's interpretation, whilst also considering the potential impact on our subjects, of the enduring and distributed digital image.
 
 Questions and links will appear in the transcript, please add your thoughts and reflections into the platform as you listen.
 
 
-Susan Stellin is a freelance reporter, co-author of the memoir Chancers, and adjunct professor in the Journalism + Design department at The New School in New York City.
-
-www.susanstellin.com
-
-Graham Macindoe is a New York based photographer and an adjunct professor at Parsons The New School. His work has been widely published in the UK and the US
-
-
-www.grahammacindoe.com
-Twitter: @grahammacindoe
-instagram: @grahammacindoe
-https://www.facebook.com/grahammacindoe
-
-![Susan_Stellin_cropped.jpg]({{site.baseurl}}/course/content/media/Susan_Stellin_cropped.jpg)
+@[bio]([Susan_Stellin_cropped{{site.baseurl}}/course/content/media/Susan_Stellin_cropped.jpg)
