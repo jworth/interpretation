@@ -10,7 +10,13 @@ description: >-
   (@grahammacindoe)|({{site.baseurl}}/course/content/media/Graham_cropped.jpg)|Graham
   Macindoe is a New York based photographer and an adjunct professor at Parsons
   The New School. His work has been widely published in the UK and the
-  US.|https://www.instagram.com/grahammacindoe)
+  US.|https://www.instagram.com/grahammacindoe)@[bio](Susan
+  Stellin|({{site.baseurl}}/course/content/media/Susan_cropped.jpg)| Susan
+  Stellin is a freelance reporter, co-author of the memoir Chancers, and adjunct
+  professor in the Journalism + Design department at The New School in New York
+  City.
+
+  www.susanstellin.com |https://www.instagram.com/grahammacindoe)
 expectsubmission: false
 ---
 ## Depictions of Addiction - Introduction
