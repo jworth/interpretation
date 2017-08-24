@@ -6,7 +6,7 @@ title: Depictions of Addiction
 description: >-
   Photographer Graham Macindoe and journalist Susan Stellin provide a case-study
   for us to consider how images are interpreted and to reflect on their enduring
-  and potentially evolving impact.@[bio](Graham Macindoe
+  and potentially evolving impact. @[bio](Graham Macindoe
   (@grahammacindoe)|({{site.baseurl}}/course/content/media/Graham_cropped.jpg)|Graham
   Macindoe is a New York based photographer and an adjunct professor at Parsons
   The New School. His work has been widely published in the UK and the
@@ -41,4 +41,3 @@ instagram: @grahammacindoe
 https://www.facebook.com/grahammacindoe
 
 ![Susan_Stellin_cropped.jpg]({{site.baseurl}}/course/content/media/Susan_Stellin_cropped.jpg)
-
