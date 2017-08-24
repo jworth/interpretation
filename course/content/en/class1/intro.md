@@ -42,4 +42,5 @@ Twitter: @grahammacindoe
 instagram: @grahammacindoe
 https://www.facebook.com/grahammacindoe
 
+![Susan_Stellin_cropped.jpg]({{site.baseurl}}/course/content/media/Susan_Stellin_cropped.jpg)
 
