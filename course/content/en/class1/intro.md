@@ -18,3 +18,6 @@ How people interpret what we say will be affected by all of the different things
 With digital images the likelihood of them being orphaned, decontextualised and misinterpreted is even greater. In this session we’re thinking about how audiences interpret our images. Scottish photographer Graham Macindoe and U.S. journalist Susan Stellin provide us with a case study. Their story offers us the opportunity to consider we might manage an audience's interpretation, whilst also considering the potential impact on our subjects of the enduring and distributed digital image.
 
 Questions and links will appear in the transcript, please add your thoughts and reflections into the platform as you listen.
+
+![04 Liam NY 1993.jpg]({{site.baseurl}}/course/content/media/04 Liam NY 1993.jpg)
+
