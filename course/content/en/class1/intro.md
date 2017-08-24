@@ -19,6 +19,15 @@ With digital images the likelihood of them being orphaned, decontextualised and 
 
 Questions and links will appear in the transcript, please add your thoughts and reflections into the platform as you listen.
 
-![43 Letters.jpg]({{site.baseurl}}/course/content/media/43%20Letters.jpg)
+
+Susan Stellin is a freelance reporter, co-author of the memoir Chancers, and adjunct professor in the Journalism + Design department at The New School in New York City.
+
+www.susanstellin.com
+
+Graham Macindoe is a New York based photographer and an adjunct professor at Parsons The New School. His work has been widely published in the UK and the US
 
 
+www.grahammacindoe.com
+Twitter: @grahammacindoe
+instagram: @grahammacindoe
+https://www.facebook.com/grahammacindoe
