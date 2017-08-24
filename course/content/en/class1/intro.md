@@ -28,4 +28,4 @@ With digital images the likelihood of them being orphaned, decontextualised and 
 Questions and links will appear in the transcript, please add your thoughts and reflections into the platform as you listen.
 
 
-@[bio](Susan_Stellin_cropped{{site.baseurl}}/course/content/media/Susan_Stellin_cropped.jpg)
+@[bio](Susan_Stellin_cropped|{{site.baseurl}}/course/content/media/Susan_Stellin_cropped.jpg)
