@@ -19,5 +19,5 @@ With digital images the likelihood of them being orphaned, decontextualised and 
 
 Questions and links will appear in the transcript, please add your thoughts and reflections into the platform as you listen.
 
-![04 Liam NY 1993.jpg]({{site.baseurl}}/course/content/media/04 Liam NY 1993.jpg)
+![04 Liam NY 1993.jpg]({{site.baseurl}}/course/content/media/04%20Liam%20NY%201993.jpg)
 
