@@ -23,6 +23,6 @@ Please review the following linked stories in advance of the class.
 
 ## Preparation
 
-There are plenty of photo stories that depict addiction but few that celebrate recovery. In advance of this class author Susan Stellin and photographer Graham Macindoe challenge us to create a 4Corners image with _Recovery_ as its theme. Use the appropriate corners to include supporting images, a backstory, any relevant links, your code of ethics and a copyright notice.
+In advance of this class author Susan Stellin and photographer Graham Macindoe challenge us to create a 4Corners image that depicts addiction in a way that goes beyond the typical images we see. Use the appropriate corners to include supporting images, a backstory, any relevant links, your code of ethics and a copyright notice.
 
 Follow [the instructions](/class/fourcorners.md) to create and upload your submission.
