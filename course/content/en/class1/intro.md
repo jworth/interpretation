@@ -29,4 +29,4 @@ Questions and links will appear in the transcript, please add your thoughts and 
 
 
 @[bio](Susan Stellin|{{site.baseurl}}/course/content/media/Susan_Stellin_cropped.jpg)
-@[bio](Graham Macindoe|{{site.baseurl}}/course/content/media/Graham_Macindoe_cropped.jpg)
+@[bio](Graham Macindoe|{{site.baseurl}}/course/content/media/Graham_cropped.jpg)
