@@ -30,4 +30,5 @@ With digital images the likelihood of them being orphaned and decontextualised m
 Questions and links will appear in the transcript, please add your thoughts and reflections into the platform as you listen.
 
 @[bio](Graham Macindoe|{{site.baseurl}}/course/content/media/Graham_cropped.jpg)
+
 @[bio](Susan Stellin|{{site.baseurl}}/course/content/media/Susan_Stellin_cropped.jpg)
