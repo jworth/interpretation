@@ -11,6 +11,7 @@ description: >-
   
   @[bio](Graham Macindoe|{{site.baseurl}}/course/content/media/Graham_cropped.jpg|Graham Macindoe is a New York based photographer and an adjunct professor at Parsons The New School. His work has been widely published in the UK and the US.|https://www.instagram.com/grahammacindoe)
   
+  
   @[bio](Susan Stellin|{{site.baseurl}}/course/content/media/Susan_Stellin_cropped.jpg|Susan Stellin is a freelance reporter, co-author of the memoir Chancers, and adjunct professor in the Journalism + Design department at The New School in New York City.|http://www.susanstellin.com)
 expectsubmission: false
 ---
