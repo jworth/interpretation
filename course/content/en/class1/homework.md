@@ -19,10 +19,10 @@ Please review the following linked stories in advance of the class.
 
 [A CARING LENS ON THE OPIOID CRISIS](http://time.com/jeffrey-stockbridge-kensington-philadelphia-photographs/)
 
-
-
 ## Preparation
 
 In advance of this class author Susan Stellin and photographer Graham Macindoe challenge us to create a 4Corners image that depicts addiction in a way that goes beyond the typical images we see. Use the appropriate corners to include supporting images, a backstory, any relevant links, your code of ethics and a copyright notice.
 
-Follow [the instructions](/class/fourcorners.md) to create and upload your submission.
+
+
+[![4c]({{site.baseurl}}/course/content/media/badge1.png)](/class/fourcorners.md)
