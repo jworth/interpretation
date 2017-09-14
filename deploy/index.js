@@ -1,4 +1,4 @@
-let fs = require('fs');
+let fs = require('fs-extra');
 let yaml = require('js-yaml');
 let walk = require('klaw-sync')
 let path = require('path');
@@ -8,6 +8,7 @@ let chai = require('chai');
 chai.use(require('chai-fs'));
 let expect = chai.expect;
 let parseSRT = require('parse-srt');
+let sharp = require('sharp');
 
 describe('Docs Build',function(){
 
@@ -108,6 +109,31 @@ describe('Docs Build',function(){
             else
                 return true;
         }});
+
+        let images = walk(__dirname + '/../course/content/',{nodir: true, filter: (p)=>{
+            if (_.endsWith(p.path,'.jpg') || _.endsWith(p.path,'.png'))
+                return true;
+            else
+                return false;
+        }});
+
+        it ('should resize all images',function(cb){
+            // Find / Replace assets in the content:
+            for (let p of images)
+            {
+                fs.copySync(p.path,p.path+'.original.jpg');
+                sharp(p.path+'.original.jpg')
+                .resize(1024,768)
+                .max()
+                .toFile(p.path,(err)=>{
+                    if (err)
+                        cb(err);
+                    fs.copySync(p.path+'.original.jpg',p.path+'.original');
+                    fs.removeSync(p.path+'.original.jpg');
+                });   
+            }
+            cb();
+        }).timeout(50000);;
 
         it ('should replace all links',function(cb){
             // Find / Replace assets in the content:
