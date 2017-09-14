@@ -8,7 +8,7 @@ homework: true
 description: Pre-reading and a practical challenge to complete in advance of the class.
 ---
 
-![JM_significant-image_450.jpg]({{site.baseurl}}/course/content/media/JM_significant-image_450.jpg)
+<img src="({{site.baseurl}}/course/content/media/JM_significant-image_450.jpg"/>
 
 
 ## This week's task
