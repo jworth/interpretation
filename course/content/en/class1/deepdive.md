@@ -13,4 +13,4 @@ description: >-
   @[bio](Jim
   Mortram|{{site.baseurl}}/course/content/media/Jim-Mortram-bio_copy.jpg)
 ---
-![Jim-Mortram-bio copy.jpg]({{site.baseurl}}/course/content/media/Jim-Mortram-bio_copy.jpg)
+
