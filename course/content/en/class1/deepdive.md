@@ -5,4 +5,6 @@ optional: true
 expectsubmission: false
 title: 'Deep dive with ... '
 ---
-![Jim-Mortram-bio.jpg]({{site.baseurl}}/course/content/media/Jim-Mortram-bio.jpg)
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/342316870%3Fsecret_token%3Ds-hjTEV&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+
