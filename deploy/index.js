@@ -122,7 +122,12 @@ describe('Docs Build',function(){
             for (let p of images)
             {
                 fs.copySync(p.path,p.path+'.original',{overwrite:false});
-                await sharp(p.path+'.original').resize(1024,768).max().toFile(p.path);                
+                await sharp(p.path+'.original').resize(1024,768).max().toFile(p.path);
+                await sharp(p.path+'.original').resize(120,120).crop().jpeg().toFile(p.path+'.thumb.jpg');
+                await sharp(p.path+'.original').resize(240).max().jpeg().toFile(p.path+'.small.jpg');
+                await sharp(p.path+'.original').resize(480).max().jpeg().toFile(p.path+'.medium.jpg');
+                await sharp(p.path+'.original').resize(1200).max().jpeg().toFile(p.path+'.large.jpg');
+
             }
         }).timeout(50000);;
 
