@@ -117,22 +117,13 @@ describe('Docs Build',function(){
                 return false;
         }});
 
-        it ('should resize all images',function(cb){
+        it ('should resize all images',async function(){
             // Find / Replace assets in the content:
             for (let p of images)
             {
-                fs.copySync(p.path,p.path+'.original.jpg');
-                sharp(p.path+'.original.jpg')
-                .resize(1024,768)
-                .max()
-                .toFile(p.path,(err)=>{
-                    if (err)
-                        cb(err);
-                    fs.copySync(p.path+'.original.jpg',p.path+'.original');
-                    fs.removeSync(p.path+'.original.jpg');
-                });   
+                fs.copySync(p.path,p.path+'.original',{overwrite:false});
+                await sharp(p.path+'.original').resize(1024,768).max().toFile(p.path);                
             }
-            cb();
         }).timeout(50000);;
 
         it ('should replace all links',function(cb){
