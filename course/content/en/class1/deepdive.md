@@ -10,7 +10,7 @@ description: >-
   you saying? Who are you saying it to? How are you saying it? Why should you be
   believed? And what do you want them to do as a result?
 
-  @[bio](Jim Mortram|{{site.baseurl}}/course/content/media/Jim-Mortram-bio
-  copy.jpg)
+  @[bio](Jim
+  Mortram|{{site.baseurl}}/course/content/media/Jim-Mortram-bio_copy.jpg)
 ---
-![Jim-Mortram-bio copy.jpg]({{site.baseurl}}/course/content/media/Jim-Mortram-bio copy.jpg)
+![Jim-Mortram-bio copy.jpg]({{site.baseurl}}/course/content/media/Jim-Mortram-bio_copy.jpg)
