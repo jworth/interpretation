@@ -9,4 +9,6 @@ description: >-
   reflects on his practice as he addresses the course's key questions: what are
   you saying? Who are you saying it to? How are you saying it? Why should you be
   believed? And what do you want them to do as a result?
+
+  @[bio](Jim Mortram|{{site.baseurl}}/course/content/media/Jim_cropped.jpg)
 ---
