@@ -22,6 +22,7 @@ soundcloud: 342469701
 ![neg scanning.jpg]({{site.baseurl}}/course/content/media/neg scanning.jpg)
 ![tilney.jpg]({{site.baseurl}}/course/content/media/tilney.jpg)
 
+
 Jim's suggested further reading:
 http://www.darcypadilla.com
 
