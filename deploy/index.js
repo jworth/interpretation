@@ -121,12 +121,19 @@ describe('Docs Build',function(){
             // Find / Replace assets in the content:
             for (let p of images)
             {
-                fs.copySync(p.path,p.path+'.original',{overwrite:false});
-                await sharp(p.path+'.original').resize(1024,768).max().toFile(p.path);
-                await sharp(p.path+'.original').resize(120,120).crop().jpeg().toFile(p.path+'.thumb.jpg');
-                await sharp(p.path+'.original').resize(240).max().jpeg().toFile(p.path+'.small.jpg');
-                await sharp(p.path+'.original').resize(480).max().jpeg().toFile(p.path+'.medium.jpg');
-                await sharp(p.path+'.original').resize(1200).max().jpeg().toFile(p.path+'.large.jpg');
+                // fs.copySync(p.path,p.path+'.original',{overwrite:false});
+                let filename = path.basename(p.path);
+                let pp = path.dirname(p.path);
+                // await sharp(p.path+'.original').resize(1024,768).max().toFile(p.path);
+                await fs.ensureDir(path.join(pp,'thumb'));
+                await fs.ensureDir(path.join(pp,'small'));
+                await fs.ensureDir(path.join(pp,'medium'));
+                await fs.ensureDir(path.join(pp,'large'));
+                
+                await sharp(p.path).resize(120,120).crop().jpeg().toFile(path.join(pp,'thumb',filename));
+                await sharp(p.path).resize(240).max().jpeg().toFile(path.join(pp,'small', filename));
+                await sharp(p.path).resize(480).max().jpeg().toFile(path.join(pp,'medium', filename));
+                await sharp(p.path).resize(1200).max().jpeg().toFile(path.join(pp,'large', filename));
 
             }
         }).timeout(50000);;
