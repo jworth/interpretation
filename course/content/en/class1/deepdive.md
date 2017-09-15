@@ -21,3 +21,14 @@ soundcloud: 342469701
 ![wh.jpg]({{site.baseurl}}/course/content/media/wh.jpg)
 ![neg scanning.jpg]({{site.baseurl}}/course/content/media/neg scanning.jpg)
 ![tilney.jpg]({{site.baseurl}}/course/content/media/tilney.jpg)
+
+Jim's suggested further reading:
+http://www.darcypadilla.com
+
+	
+Darcy Padilla
+www.darcypadilla.com
+Family Love Based on the documentary The Julie Project that follows a family for 21 years — an intimate story of poverty, Aids, and social issues.![]({{site.baseurl}}/http://www.darcypadilla.com/_FamilyLove/DarcyPadilla_FamilyLove-Book.jpg)
+
+Brenda Ann Kenneally
+http://therawfile.org/
