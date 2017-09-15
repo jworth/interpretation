@@ -21,6 +21,3 @@ soundcloud: 342469701
 ![wh.jpg]({{site.baseurl}}/course/content/media/wh.jpg)
 ![neg scanning.jpg]({{site.baseurl}}/course/content/media/neg scanning.jpg)
 ![tilney.jpg]({{site.baseurl}}/course/content/media/tilney.jpg)
-
-
-
