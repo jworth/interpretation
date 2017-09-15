@@ -21,6 +21,9 @@ soundcloud: 342469701
 ![wh.jpg]({{site.baseurl}}/course/content/media/wh.jpg)
 ![neg scanning.jpg]({{site.baseurl}}/course/content/media/neg scanning.jpg)
 ![tilney.jpg]({{site.baseurl}}/course/content/media/tilney.jpg)
+![tumblr_nm3etdy3G61rjs5vro1_1280.jpeg]({{site.baseurl}}/course/content/media/tumblr_nm3etdy3G61rjs5vro1_1280.jpeg)
+![tumblr_okhxjpC4jA1rjs5vro1_r1_1280.png]({{site.baseurl}}/course/content/media/tumblr_okhxjpC4jA1rjs5vro1_r1_1280.png)
+![tumblr_nw5v62lNH91rjs5vro5_1280.jpeg]({{site.baseurl}}/course/content/media/tumblr_nw5v62lNH91rjs5vro5_1280.jpeg)
 
 
 Jim's suggested further reading:
