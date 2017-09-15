@@ -15,3 +15,10 @@ soundcloud: 342469701
 ![james.jpeg]({{site.baseurl}}/course/content/media/james.jpeg)
 ![carl.jpeg]({{site.baseurl}}/course/content/media/carl.jpeg)
 ![carlos.jpeg]({{site.baseurl}}/course/content/media/carlos.jpeg)
+![helena.jpg]({{site.baseurl}}/course/content/media/helena.jpg)
+![reviewing negs.jpg]({{site.baseurl}}/course/content/media/reviewing negs.jpg)
+![wh.jpg]({{site.baseurl}}/course/content/media/wh.jpg)
+![neg scanning.jpg]({{site.baseurl}}/course/content/media/neg scanning.jpg)
+
+
+
