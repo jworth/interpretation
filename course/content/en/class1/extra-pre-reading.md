@@ -9,18 +9,18 @@ description: >-
 thumbnails:
   '1':
     image: >-
-      https://testclass.connectedacademy.io/course/content/media/small/example-1.jpg
+      https://interpretation.connectedacademy.io/course/content/media/small/example-1.jpg
     link: /markdown/class1%2Fexamples%2Fexample-1.md
   '2':
     image: >-
-      https://testclass.connectedacademy.io/course/content/media/small/example-2.jpg
+      https://interpretation.connectedacademy.io/course/content/media/small/example-2.jpg
     link: /markdown/class1%2Fexamples%2Fexample-2.md
   '3':
     image: >-
-      https://testclass.connectedacademy.io/course/content/media/small/example-3.jpg
+      https://interpretation.connectedacademy.io/course/content/media/small/example-3.jpg
     link: /markdown/class1%2Fexamples%2Fexample-4.md
   '4':
     image: >-
-      https://testclass.connectedacademy.io/course/content/media/small/example-4.jpg
+      https://interpretation.connectedacademy.io/course/content/media/small/example-4.jpg
     link: /markdown/class1%2Fexamples%2Fexample-3.md
 ---
