@@ -11,16 +11,20 @@ thumbnails:
     image: >-
       https://interpretation.connectedacademy.io/course/content/media/small/example-1.jpg
     link: /markdown/class1%2Fexamples%2Fexample-1.md
+    caption: 2016
   '2':
     image: >-
       https://interpretation.connectedacademy.io/course/content/media/small/example-2.jpg
     link: /markdown/class1%2Fexamples%2Fexample-2.md
+    caption: 2017
   '3':
     image: >-
       https://interpretation.connectedacademy.io/course/content/media/small/example-3.jpg
     link: /markdown/class1%2Fexamples%2Fexample-4.md
+    caption: 1987
   '4':
     image: >-
       https://interpretation.connectedacademy.io/course/content/media/small/example-4.jpg
     link: /markdown/class1%2Fexamples%2Fexample-3.md
+    caption: 2015
 ---
