@@ -5,6 +5,11 @@ optional: true
 expectsubmission: false
 title: Deep dive with Jim Mortram
 soundcloud: 342469701
+description: >-
+  In this extended interview full-time carer and photographer Jim Mortram
+  reflects on his practice as he addresses the course's key questions: what are
+  you saying? Who are you saying it to? How are you saying it? Why should you be
+  believed? And what do you want them to do as a result?
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/342469701%3Fsecret_token%3Ds-4jGU0&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
