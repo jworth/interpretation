@@ -24,4 +24,4 @@ For each class we have staged a conversation between a **photographer**, a **sub
  
 These are not the only questions we hope will emerge and throughout the conversations traditional storytelling themes such as Evidence, Interpretation, Fiction, Fact, Narrative and Impact are also discussed.
  
-> For submitting photographs we are using Fred Ritchin’s Four Corners idea. Four Corners is an authoring and context tool that enables the photographer to furnish an image with extra content. This content should provide more information about both the subject, and the photographer.
+> For submitting photographic work during the course, we are using Four Corners. Four Corners is an authoring and context tool first envisaged by Fred Ritchin that enables the photographer to furnish an image with extra content. This content provides context and more information about the subject and the photographer.
