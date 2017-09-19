@@ -48,3 +48,6 @@ classes:
         schedule:
           -
             release_at: "2017-09-19T22:57:37-07:00"
+      -
+        url: whatnext.md
+        slug: whatnext
