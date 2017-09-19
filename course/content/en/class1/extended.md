@@ -5,14 +5,13 @@ optional: true
 expectsubmission: false
 title: Extended Content
 description: >-
-  Dive deeper with photographer Graham Macindoe and journalist Susan Stellin's extended interviews 
+  Access the extended interviews with the photographer Graham Macindoe and the
+  journalist Susan Stellin.
 
+  @[bio](Graham
+  Macindoe|{{site.baseurl}}/course/content/media/Graham_cropped.jpg)
 
-  @[bio](Graham Macindoe|{{site.baseurl}}/course/content/media/Graham_cropped.jpg)
-
-
-  @[bio](Susan Stellin|{{site.baseurl}}/course/content/media/Graham_cropped.jpg)
-
+  @[bio](Susan Stellin|{{site.baseurl}}/course/content/media/14%20Susan.jpg)
 ---
 
 Here you can access Graham and Susan's original interviews in full.
