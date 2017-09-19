@@ -33,14 +33,22 @@ Here you can access Graham and Susan's original interviews in full.
 
 ## Jim's suggested further reading:
 	
-**Darcy Padilla** - http://www.darcypadilla.com
+**Darcy Padilla** - [http://www.darcypadilla.com](http://www.darcypadilla.com)
+
+> Darcy Padilla is a documentary photographer, photojournalist, and lecturer specializing in contemporary issues and long-term projects.
+Her awards include a Guggenheim Fellowship, three World Press Photo Awards, Alexia Foundation Grant, Open Society Institute Individual Fellowship, Getty Images Grant, Alicia Patterson Fellowship, International Photo-Reporter Grant, Canon Female Photojournalist Award, and the W. Eugene Smith Grant for Humanitarian Photography.
 
 Family Love Based on the documentary The Julie Project that follows a family for 21 years — an intimate story of poverty, Aids, and social issues.
 
 ![]({{site.baseurl}}/http://www.darcypadilla.com/_FamilyLove/DarcyPadilla_FamilyLove-Book.jpg)
 
-**Brenda Ann Kenneally**
-http://therawfile.org/
+**Brenda Ann Kenneally** - [http://therawfile.org/](http://therawfile.org/)
+
+> Brenda Ann Kenneally is a woman on a mission. Born in Albany, New York, in the late 1950s, Kenneally grew up in nearby Troy. Although once the home of the Industrial Revolution in the United States, by the 1960s and 1970s, Troy had been left behind. 
+
+_Read more at the [Library of Congress_](https://www.loc.gov/rr/print/coll/womphotoj/kenneallyessay.html).
+
+
 
 ----
 
