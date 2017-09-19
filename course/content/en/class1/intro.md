@@ -8,8 +8,9 @@ description: >-
   for us to consider how images are interpreted and to reflect on their enduring
   and potentially evolving impact. 
   
-  @[bio](Graham Macindoe|{{site.baseurl}}/course/content/media/Graham_cropped.jpg)| Graham Macindoe is a New York based photographer and an adjunct professor at Parsons The New School. His work has been widely published in the UK and the US.|https://www.instagram.com/grahammacindoe)
+  @[bio](Graham Macindoe|{{site.baseurl}}/course/content/media/Graham_cropped.jpg)|Graham Macindoe is a New York based photographer and an adjunct professor at Parsons The New School. His work has been widely published in the UK and the US.|https://www.instagram.com/grahammacindoe)
   
+
   During the course, we will be making [Four Corners](/markdown/fourcorners.md) images as a way of sharing and discussing the emergent issues.
 expectsubmission: false
 ---
