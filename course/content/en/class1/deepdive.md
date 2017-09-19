@@ -27,6 +27,50 @@ carousel:
     image: jimmy.jpeg
     link: 'https://connectedacademy.io'
     caption: Fourth
+  '5':
+    image: james.jpeg
+    link: 'https://connectedacademy.io'
+    caption: Image Caption
+  '6':
+    image: carl.jpeg
+    link: 'https://connectedacademy.io'
+    caption: Image Caption
+  '7':
+    image: carlos.jpeg
+    link: 'https://connectedacademy.io'
+    caption: Image Caption
+  '8':
+    image: helena.jpg
+    link: 'https://connectedacademy.io'
+    caption: Image Caption
+  '9':
+    image: reviewing negs.jpg
+    link: 'https://connectedacademy.io'
+    caption: Image Caption
+  '10':
+    image: wh.jpg
+    link: 'https://connectedacademy.io'
+    caption: Image Caption
+  '11':
+    image: neg scanning.jpg
+    link: 'https://connectedacademy.io'
+    caption: Image Caption
+  '12':
+    image: tilney.jpg
+    link: 'https://connectedacademy.io'
+    caption: Image Caption
+  '13':
+    image: tumblr_nm3etdy3G61rjs5vro1_1280.jpeg
+    link: 'https://connectedacademy.io'
+    caption: Image Caption
+  '14':
+    image: tumblr_okhxjpC4jA1rjs5vro1_r1_1280.png
+    link: 'https://connectedacademy.io'
+    caption: Image Caption
+  '15':
+    image: tumblr_nw5v62lNH91rjs5vro5_1280.jpeg
+    link: 'https://connectedacademy.io'
+    caption: Image Caption
 ---
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/342469701%3Fsecret_token%3Ds-4jGU0&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
