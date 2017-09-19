@@ -39,9 +39,7 @@ Family Love Based on the documentary The Julie Project that follows a family for
 
 **Brenda Ann Kenneally** - [http://therawfile.org/](http://therawfile.org/)
 
-> Brenda Ann Kenneally is a woman on a mission. Born in Albany, New York, in the late 1950s, Kenneally grew up in nearby Troy. Although once the home of the Industrial Revolution in the United States, by the 1960s and 1970s, Troy had been left behind. 
-
-_Read more at the [Library of Congress_](https://www.loc.gov/rr/print/coll/womphotoj/kenneallyessay.html).
+> Brenda Ann Kenneally is a woman on a mission. Born in Albany, New York, in the late 1950s, Kenneally grew up in nearby Troy. Although once the home of the Industrial Revolution in the United States, by the 1960s and 1970s, Troy had been left behind. _Read more at the [Library of Congress]) (https://www.loc.gov/rr/print/coll/womphotoj/kenneallyessay.html).
 
 
 
