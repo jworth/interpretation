@@ -1,7 +1,7 @@
 ---
 published: true
 content_type: postclass
-optional: true
+optional: false
 expectsubmission: false
 title: Deep dive with Jim Mortram
 soundcloud: 342469701
