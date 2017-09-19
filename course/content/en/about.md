@@ -11,9 +11,8 @@ Connected Academy is an online, socially driven learning platform developed by a
 
 **"Interpretation"** is an open class in critical visual storytelling and a PhD research project. 
 
-The paedagogy has been designed by Jonathan Worth, Open Lab, Newcastle University, UK, and is run in association with
+The pedagogy has been designed by Jonathan Worth, Open Lab, Newcastle University, UK, and is run in association with
 - World Press Photo Foundation
-- Leuphana University, Germany
 - ArtEZ University, the Netherlands
 - University of California Irvine, USA.
 
