@@ -4,11 +4,6 @@ content_type: postclass
 optional: true
 expectsubmission: false
 title: Extended Content
-description: >-
-  Access the extended interviews with the photographer Graham Macindoe and the
-  journalist Susan Stellin, as well as links from Jim Mortram's Deep-Dive
-  interview.
-  @[bio](|{{site.baseurl}}/course/content/media/77%20GSEdinburgh2013%20cropped.jpg)
 ---
 
 Here you can access Graham and Susan's original interviews in full.
