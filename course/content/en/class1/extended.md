@@ -7,11 +7,9 @@ title: Extended Content
 description: >-
   Dive deeper with photographer Graham Macindoe and journalist Susan Stellin's extended interviews 
 
-  @[bio](Graham
-  Macindoe|{{site.baseurl}}/course/content/media/Graham_cropped.jpg)
+  @[bio](Graham Macindoe|{{site.baseurl}}/course/content/media/Graham_cropped.jpg)
 
-  @[bio](Susan
-  Stellin|{{site.baseurl}}/course/content/media/Graham_cropped.jpg)
+  @[bio](Susan Stellin|{{site.baseurl}}/course/content/media/Graham_cropped.jpg)
 ---
 
 Here you can access Graham and Susan's original interviews in full.
