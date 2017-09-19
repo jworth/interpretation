@@ -44,7 +44,7 @@ carousel:
     link: 'https://connectedacademy.io'
     caption: Image Caption
   '9':
-    image: reviewing negs.jpg
+    image: reviewing%20negs.jpg
     link: 'https://connectedacademy.io'
     caption: Image Caption
   '10':
@@ -52,7 +52,7 @@ carousel:
     link: 'https://connectedacademy.io'
     caption: Image Caption
   '11':
-    image: neg scanning.jpg
+    image: neg%20scanning.jpg
     link: 'https://connectedacademy.io'
     caption: Image Caption
   '12':
