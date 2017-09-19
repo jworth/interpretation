@@ -11,10 +11,6 @@ description: >-
   you saying? Who are you saying it to? How are you saying it? Why should you be
   believed? And what do you want them to do as a result?
 carousel:
-  '1':
-    image: tumblr_okhxjpC4jA1rjs5vro1_r1_1280.png
-    link: 'https://connectedacademy.io'
-    caption: First
   '2':
     image: JM_significant%20image_450.jpg
     link: 'https://connectedacademy.io'
