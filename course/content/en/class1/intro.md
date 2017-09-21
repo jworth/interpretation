@@ -11,7 +11,7 @@ description: >-
   @[bio](Graham Macindoe|{{site.baseurl}}/course/content/media/thumb/Graham_cropped.jpg|Graham Macindoe is a New York based photographer and an adjunct professor at Parsons The New School. His work has been widely published in the UK and the US.|https://www.instagram.com/grahammacindoe)
   
 
-  During the course, we will be making [Four Corners](/#/fourcorners.md) images as a way of sharing and discussing the emergent issues.
+  During the course, we will be making [Four Corners](/#/fourcorners) images as a way of sharing and discussing the emergent issues.
 expectsubmission: false
 ---
 ## Depictions of Addiction - Introduction
