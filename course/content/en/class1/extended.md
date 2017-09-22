@@ -4,7 +4,9 @@ content_type: postclass
 optional: true
 expectsubmission: false
 title: Extended Content
-description: Access Graham and Susan's original interviews in full.
+description: >-
+  Access Graham and Susan's original interviews in full as well as Jim's links
+  and suggested further reading.
 ---
 
 Here you can access Graham and Susan's original interviews in full.
