@@ -14,7 +14,7 @@ expectsubmission: false
  
 _Interpretation_ is a connected conversation about photography in the 21st century. The format and the platform are designed to enable the participant to be a part of a global conversation informed by an international range of perspectives and joined live, by the same photographic experts who feature in the content. Participants are invited to create, to share and to feedback on each other’s photographic responses.
  
-For each class we have created conversations between a **photographer**, a **subject** and **someone who represents the audience**. A subject expert also provides historical or thematic context. These conversations are designed to help us address five key questions, namely:
+Each class contains a montage of interviews with **photographers**, a **subjects** and **people who represent the audience**. Subject experts also provide historical and/or thematic context. These pieces are designed to help us address five key questions, namely:
  
 - What are you saying?
 - Who are you saying it to?
@@ -24,4 +24,4 @@ For each class we have created conversations between a **photographer**, a **sub
  
 Traditional storytelling themes such as Evidence, Interpretation, Fiction, Fact, Narrative and Impact also emerge are discussed throughoute.
  
-> We are using _Four Corners_ for the submission of photographic work. Four Corners is an authoring and context tool first envisaged by ex-NY Times Photo Editor, Fred Ritchin. It enables the photographer to furnish an image with extra contextual information, related frames, links, copyright information and their code of ethics.
+> Submission of photographic work must be in the Four Corners format. Four Corners is an authoring and context tool first envisaged by ex-NY Times Photo Editor, Fred Ritchin. It enables the photographer to furnish an image with extra contextual information, related frames, links, copyright information and their code of ethics.
