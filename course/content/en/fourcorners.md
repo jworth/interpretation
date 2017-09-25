@@ -22,7 +22,7 @@ Four Corners is a simple authoring and context tool for photographers. It enable
 
 ![4c1.png]({{site.baseurl}}/course/content/media/4c1.png)
 
-**We’re using 4C because it shifts the role of the photographer from being a supplier of content, to becoming a publisher, whilst affording the reader a richer and more active experience.**
+**We’re using 4C because it shifts the role of the photographer from being a supplier of content, to becoming a publisher, whilst affording the reader a richer and more active reading experience.**
 
 
 ## How to Use It
