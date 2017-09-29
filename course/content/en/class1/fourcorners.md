@@ -10,9 +10,8 @@ description: >-
   authoring tool for photographers. It enables the photographer to add extra
   information into an image so that they are no longer reliant on the
   surrounding information to convey their intended meaning. It is central to
-  Interpretation because it enables the reader to interrogate the photograph
-  and better understand the motivation, perspective and values of the
-  photographer.
+  Interpretation because it enables the reader to interrogate the photograph and
+  better understand the motivation, perspective and values of the photographer.
 fourcornersintro: true
 ---
 ## Why Four Corners
@@ -23,7 +22,7 @@ Four Corners is simple way of representing context information about photographs
 
 ![4c1.png]({{site.baseurl}}/course/content/media/4c1.png)
 
-**We’re using 4C because it shifts the role of the photographer from being suppliers of content to becoming publishers, and allows the reader to interregate the photograph in a richer way.**
+**We’re using 4C because it shifts the role of the photographer from being suppliers of content to becoming publishers, and allows the reader to interrogate the photograph in a richer way.**
 
 
 ## How to Use It
