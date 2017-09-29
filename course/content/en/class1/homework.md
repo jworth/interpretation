@@ -3,7 +3,7 @@ published: true
 content_type: pre
 optional: false
 expectsubmission: true
-title: Homework
+title: Preparation
 homework: true
 description: Pre-reading and a practical challenge to complete in advance of the class.
 ---
